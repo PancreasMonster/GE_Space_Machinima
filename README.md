@@ -14,4 +14,5 @@ The main technical features will be present in the space battle. The 5 Squadra m
 ## The Storyboard 
 <img src="Pictures/Storyboard.png">
 Video example of first storyboard slide:
-[![](https://img.youtube.com/vi/RideatHlHaU/0.jpg)](https://www.youtube.com/watch?v=RideatHlHaU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RideatHlHaU/0.jpg)](https://www.youtube.com/watch?v=RideatHlHaU)
+
