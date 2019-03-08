@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: 1c2afa6861211ae40967a3ece42d313c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f0100006001000061010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 137d15b7de81ab09dab0f186e0e740c8
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.0313227, y: 7.361577, z: 3.712616}
+      lookAt: {x: 6.1206946, y: -4.3419166, z: 12.048026}
+      up: {x: 0.49534655, y: 0.7057617, z: 0.5064902}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '*'
+    100002: 2#1
+    100004: Binder 3 inches
+    100006: Binder 3 inches 1
+    100008: Binder 3 inches 2
+    100010: Binder 3 inches 3
+    100012: Binder 3 inches 4
+    100014: Binder 3 inches 5
+    100016: Binder 3 inches 6
+    100018: Binder 3 inches 7
+    100020: Binder 3 inches 8
+    100022: Binder3in_Ring
+    100024: Binder3in_Ring 1
+    100026: Binder3in_Ring 10
+    100028: Binder3in_Ring 11
+    100030: Binder3in_Ring 12
+    100032: Binder3in_Ring 13
+    100034: Binder3in_Ring 14
+    100036: Binder3in_Ring 15
+    100038: Binder3in_Ring 16
+    100040: Binder3in_Ring 17
+    100042: Binder3in_Ring 18
+    100044: Binder3in_Ring 19
+    100046: Binder3in_Ring 2
+    100048: Binder3in_Ring 20
+    100050: Binder3in_Ring 21
+    100052: Binder3in_Ring 22
+    100054: Binder3in_Ring 23
+    100056: Binder3in_Ring 24
+    100058: Binder3in_Ring 25
+    100060: Binder3in_Ring 26
+    100062: Binder3in_Ring 3
+    100064: Binder3in_Ring 4
+    100066: Binder3in_Ring 5
+    100068: Binder3in_Ring 6
+    100070: Binder3in_Ring 7
+    100072: Binder3in_Ring 8
+    100074: Binder3in_Ring 9
+    100076: CLASSIC
+    100078: Composant#1
+    100080: Composant#1 1
+    100082: ENTER PASSCODE#1
+    100084: ENTER PASSCODE#1 1
+    100086: Enter text Enter
+    100088: 'Enter textEnter '
+    100090: Enter textEnter  1
+    100092: 'Enter textEnter #1'
+    100094: 'Enter textEnter #1 1'
+    100096: Group 10
+    100098: Group 12
+    100100: Group 16
+    100102: Group 18
+    100104: Group 2
+    100106: Group 20
+    100108: Group 22
+    100110: Group 24
+    100112: Group 25
+    100114: Group 27
+    100116: Group 3
+    100118: Group 31
+    100120: Group 33
+    100122: Group 35
+    100124: Group 37
+    100126: Group 47
+    100128: Group 54
+    100130: Group 61
+    100132: Group 68
+    100134: Group 9
+    100136: Group#23
+    100138: Group#23 1
+    100140: Group#23 2
+    100142: Group#23 3
+    100144: Group#23 4
+    100146: Group#23 5
+    100148: Group#23 6
+    100150: Group#23 7
+    100152: Handle
+    100154: Handle 1
+    100156: Handle 2
+    100158: Handle 3
+    100160: HB
+    100162: Image 5
+    100164: keyboard
+    100166: keyboard 1
+    100168: Magic Mouse
+    100170: Magic Mouse 1
+    100172: Microsoft Surface
+    100174: Modern Office
+    100176: Modern Office (coming soon)
+    100178: Modern Office 2
+    100180: Modern Office#1
+    100182: Obj_000001
+    100184: Obj_000001 1
+    100186: Obj_000001 2
+    100188: Obj_000002
+    100190: Obj_000002 1
+    100192: Obj_000002 2
+    100194: Obj_000004
+    100196: Obj_000004 1
+    100198: Obj_000004 2
+    100200: Obj_000005
+    100202: Obj_000005 1
+    100204: Obj_000005 2
+    100206: Obj_000006
+    100208: Obj_000006 1
+    100210: Obj_000006 2
+    100212: Obj_000008
+    100214: Obj_000008 1
+    100216: Obj_000008 2
+    100218: Obj_000009
+    100220: Obj_000009 1
+    100222: Obj_000009 2
+    100224: Obj_000010
+    100226: Obj_000010 1
+    100228: Obj_000010 2
+    100230: Obj_000013
+    100232: Obj_000013 1
+    100234: Obj_000013 2
+    100236: Obj_000014
+    100238: Obj_000014 1
+    100240: Obj_000014 2
+    100242: Obj_000015
+    100244: Obj_000015 1
+    100246: Obj_000015 2
+    100248: Obj_000016
+    100250: Obj_000016 1
+    100252: Obj_000016 2
+    100254: Obj_000017
+    100256: Obj_000017 1
+    100258: Obj_000017 2
+    100260: Obj_000018
+    100262: Obj_000018 1
+    100264: Obj_000018 2
+    100266: Obj_000019
+    100268: Obj_000019 1
+    100270: Obj_000019 2
+    100272: Obj_000020
+    100274: Obj_000020 1
+    100276: Obj_000020 2
+    100278: Obj_000022
+    100280: Obj_000022 1
+    100282: Obj_000022 2
+    100284: Obj_000023
+    100286: Obj_000023 1
+    100288: Obj_000023 2
+    100290: Obj_000024
+    100292: Obj_000024 1
+    100294: Obj_000024 2
+    100296: Obj_000025
+    100298: Obj_000025 1
+    100300: Obj_000025 2
+    100302: Obj_000026
+    100304: Obj_000026 1
+    100306: Obj_000026 2
+    100308: Obj_000028
+    100310: Obj_000028 1
+    100312: Obj_000028 2
+    100314: Obj_000029
+    100316: Obj_000029 1
+    100318: Obj_000029 2
+    100320: Obj_000030
+    100322: Obj_000030 1
+    100324: Obj_000030 2
+    100326: Obj_000031
+    100328: Obj_000031 1
+    100330: Obj_000031 2
+    100332: Obj_000032
+    100334: Obj_000032 1
+    100336: Obj_000032 2
+    100338: Obj_000033
+    100340: Obj_000033 1
+    100342: Obj_000033 2
+    100344: Obj_000035
+    100346: Obj_000035 1
+    100348: Obj_000035 2
+    100350: Obj_000036
+    100352: Obj_000036 1
+    100354: Obj_000036 2
+    100356: Office 2
+    100358: Pencil#2
+    100360: ske296
+    100362: ske296 1
+    100364: skp8D7
+    100366: skp8D7 1
+    100368: skp8D7 2
+    100370: Sony OLED XEL-1#1
+    100372: Steelcase Jersey Guest TS383 Task with Arms office chair
+    100374: Steelcase Jersey Guest TS383 Task with Arms office chair 1
+    100376: Steelcase Jersey Guest TS383 Task with Arms office chair 2
+    100378: //RootNode
+    400000: '*'
+    400002: 2#1
+    400004: Binder 3 inches
+    400006: Binder 3 inches 1
+    400008: Binder 3 inches 2
+    400010: Binder 3 inches 3
+    400012: Binder 3 inches 4
+    400014: Binder 3 inches 5
+    400016: Binder 3 inches 6
+    400018: Binder 3 inches 7
+    400020: Binder 3 inches 8
+    400022: Binder3in_Ring
+    400024: Binder3in_Ring 1
+    400026: Binder3in_Ring 10
+    400028: Binder3in_Ring 11
+    400030: Binder3in_Ring 12
+    400032: Binder3in_Ring 13
+    400034: Binder3in_Ring 14
+    400036: Binder3in_Ring 15
+    400038: Binder3in_Ring 16
+    400040: Binder3in_Ring 17
+    400042: Binder3in_Ring 18
+    400044: Binder3in_Ring 19
+    400046: Binder3in_Ring 2
+    400048: Binder3in_Ring 20
+    400050: Binder3in_Ring 21
+    400052: Binder3in_Ring 22
+    400054: Binder3in_Ring 23
+    400056: Binder3in_Ring 24
+    400058: Binder3in_Ring 25
+    400060: Binder3in_Ring 26
+    400062: Binder3in_Ring 3
+    400064: Binder3in_Ring 4
+    400066: Binder3in_Ring 5
+    400068: Binder3in_Ring 6
+    400070: Binder3in_Ring 7
+    400072: Binder3in_Ring 8
+    400074: Binder3in_Ring 9
+    400076: CLASSIC
+    400078: Composant#1
+    400080: Composant#1 1
+    400082: ENTER PASSCODE#1
+    400084: ENTER PASSCODE#1 1
+    400086: Enter text Enter
+    400088: 'Enter textEnter '
+    400090: Enter textEnter  1
+    400092: 'Enter textEnter #1'
+    400094: 'Enter textEnter #1 1'
+    400096: Group 10
+    400098: Group 12
+    400100: Group 16
+    400102: Group 18
+    400104: Group 2
+    400106: Group 20
+    400108: Group 22
+    400110: Group 24
+    400112: Group 25
+    400114: Group 27
+    400116: Group 3
+    400118: Group 31
+    400120: Group 33
+    400122: Group 35
+    400124: Group 37
+    400126: Group 47
+    400128: Group 54
+    400130: Group 61
+    400132: Group 68
+    400134: Group 9
+    400136: Group#23
+    400138: Group#23 1
+    400140: Group#23 2
+    400142: Group#23 3
+    400144: Group#23 4
+    400146: Group#23 5
+    400148: Group#23 6
+    400150: Group#23 7
+    400152: Handle
+    400154: Handle 1
+    400156: Handle 2
+    400158: Handle 3
+    400160: HB
+    400162: Image 5
+    400164: keyboard
+    400166: keyboard 1
+    400168: Magic Mouse
+    400170: Magic Mouse 1
+    400172: Microsoft Surface
+    400174: Modern Office
+    400176: Modern Office (coming soon)
+    400178: Modern Office 2
+    400180: Modern Office#1
+    400182: Obj_000001
+    400184: Obj_000001 1
+    400186: Obj_000001 2
+    400188: Obj_000002
+    400190: Obj_000002 1
+    400192: Obj_000002 2
+    400194: Obj_000004
+    400196: Obj_000004 1
+    400198: Obj_000004 2
+    400200: Obj_000005
+    400202: Obj_000005 1
+    400204: Obj_000005 2
+    400206: Obj_000006
+    400208: Obj_000006 1
+    400210: Obj_000006 2
+    400212: Obj_000008
+    400214: Obj_000008 1
+    400216: Obj_000008 2
+    400218: Obj_000009
+    400220: Obj_000009 1
+    400222: Obj_000009 2
+    400224: Obj_000010
+    400226: Obj_000010 1
+    400228: Obj_000010 2
+    400230: Obj_000013
+    400232: Obj_000013 1
+    400234: Obj_000013 2
+    400236: Obj_000014
+    400238: Obj_000014 1
+    400240: Obj_000014 2
+    400242: Obj_000015
+    400244: Obj_000015 1
+    400246: Obj_000015 2
+    400248: Obj_000016
+    400250: Obj_000016 1
+    400252: Obj_000016 2
+    400254: Obj_000017
+    400256: Obj_000017 1
+    400258: Obj_000017 2
+    400260: Obj_000018
+    400262: Obj_000018 1
+    400264: Obj_000018 2
+    400266: Obj_000019
+    400268: Obj_000019 1
+    400270: Obj_000019 2
+    400272: Obj_000020
+    400274: Obj_000020 1
+    400276: Obj_000020 2
+    400278: Obj_000022
+    400280: Obj_000022 1
+    400282: Obj_000022 2
+    400284: Obj_000023
+    400286: Obj_000023 1
+    400288: Obj_000023 2
+    400290: Obj_000024
+    400292: Obj_000024 1
+    400294: Obj_000024 2
+    400296: Obj_000025
+    400298: Obj_000025 1
+    400300: Obj_000025 2
+    400302: Obj_000026
+    400304: Obj_000026 1
+    400306: Obj_000026 2
+    400308: Obj_000028
+    400310: Obj_000028 1
+    400312: Obj_000028 2
+    400314: Obj_000029
+    400316: Obj_000029 1
+    400318: Obj_000029 2
+    400320: Obj_000030
+    400322: Obj_000030 1
+    400324: Obj_000030 2
+    400326: Obj_000031
+    400328: Obj_000031 1
+    400330: Obj_000031 2
+    400332: Obj_000032
+    400334: Obj_000032 1
+    400336: Obj_000032 2
+    400338: Obj_000033
+    400340: Obj_000033 1
+    400342: Obj_000033 2
+    400344: Obj_000035
+    400346: Obj_000035 1
+    400348: Obj_000035 2
+    400350: Obj_000036
+    400352: Obj_000036 1
+    400354: Obj_000036 2
+    400356: Office 2
+    400358: Pencil#2
+    400360: ske296
+    400362: ske296 1
+    400364: skp8D7
+    400366: skp8D7 1
+    400368: skp8D7 2
+    400370: Sony OLED XEL-1#1
+    400372: Steelcase Jersey Guest TS383 Task with Arms office chair
+    400374: Steelcase Jersey Guest TS383 Task with Arms office chair 1
+    400376: Steelcase Jersey Guest TS383 Task with Arms office chair 2
+    400378: //RootNode
+    2100000: _defaultMat
+    2100002: '[Translucent_Glass_Gray]'
+    2100004: '[Translucent_Glass_Gray]1'
+    2100006: '[Color_007]'
+    2100008: '[Color_008]'
+    2100010: '[Color_003]'
+    2100012: '[Color_A11]'
+    2100014: Material 7
+    2100016: '[Color_001]'
+    2100018: _12
+    2100020: _13
+    2100022: _11
+    2100024: _16
+    2100026: _19
+    2100028: _18
+    2100030: ps desktop
+    2100032: on
+    2100034: _9
+    2100036: _10
+    2100038: _7
+    2100040: _8
+    2100042: '[Color_002]'
+    2100044: '[Color_002]1'
+    2100046: '[Color_A01]1'
+    2100048: '[Color_008]1'
+    2100050: '[Color_006]'
+    2100052: '[Color_000]'
+    2100054: '[Color_007]1'
+    2100056: '[Color_B25]'
+    2100058: '[Color_G01]'
+    2100060: '[Metal_Rough]'
+    2100062: '[Translucent_Glass_Gray]5'
+    2100064: '[Color_005]'
+    2100066: '[Color_004]'
+    2100068: '[Translucent_Glass_Gray]4'
+    2100070: '[Tile_Ceramic_Natural]1'
+    2100072: _3
+    2100074: '[Color_D01]'
+    2100076: _2
+    2100078: '[Color_A05]'
+    2100080: '[Metal_Aluminum_Anodized]'
+    2100082: '[_0137_Black_]'
+    2100084: _DarkGray_
+    2100086: _LightGray_
+    2100088: _White_
+    2100090: mat2
+    2100092: mat17
+    2300000: '*'
+    2300002: 2#1
+    2300004: Binder 3 inches
+    2300006: Binder 3 inches 1
+    2300008: Binder 3 inches 2
+    2300010: Binder 3 inches 3
+    2300012: Binder 3 inches 4
+    2300014: Binder 3 inches 5
+    2300016: Binder 3 inches 6
+    2300018: Binder 3 inches 7
+    2300020: Binder 3 inches 8
+    2300022: Binder3in_Ring
+    2300024: Binder3in_Ring 1
+    2300026: Binder3in_Ring 10
+    2300028: Binder3in_Ring 11
+    2300030: Binder3in_Ring 12
+    2300032: Binder3in_Ring 13
+    2300034: Binder3in_Ring 14
+    2300036: Binder3in_Ring 15
+    2300038: Binder3in_Ring 16
+    2300040: Binder3in_Ring 17
+    2300042: Binder3in_Ring 18
+    2300044: Binder3in_Ring 19
+    2300046: Binder3in_Ring 2
+    2300048: Binder3in_Ring 20
+    2300050: Binder3in_Ring 21
+    2300052: Binder3in_Ring 22
+    2300054: Binder3in_Ring 23
+    2300056: Binder3in_Ring 24
+    2300058: Binder3in_Ring 25
+    2300060: Binder3in_Ring 26
+    2300062: Binder3in_Ring 3
+    2300064: Binder3in_Ring 4
+    2300066: Binder3in_Ring 5
+    2300068: Binder3in_Ring 6
+    2300070: Binder3in_Ring 7
+    2300072: Binder3in_Ring 8
+    2300074: Binder3in_Ring 9
+    2300076: CLASSIC
+    2300078: Composant#1
+    2300080: Composant#1 1
+    2300082: ENTER PASSCODE#1
+    2300084: ENTER PASSCODE#1 1
+    2300086: Enter text Enter
+    2300088: 'Enter textEnter '
+    2300090: Enter textEnter  1
+    2300092: 'Enter textEnter #1'
+    2300094: 'Enter textEnter #1 1'
+    2300096: Group 10
+    2300098: Group 12
+    2300100: Group 16
+    2300102: Group 18
+    2300104: Group 20
+    2300106: Group 22
+    2300108: Group 25
+    2300110: Group 27
+    2300112: Group 3
+    2300114: Group 31
+    2300116: Group 33
+    2300118: Group 35
+    2300120: Group 37
+    2300122: Group 47
+    2300124: Group 54
+    2300126: Group 61
+    2300128: Group 68
+    2300130: Group#23
+    2300132: Group#23 1
+    2300134: Group#23 2
+    2300136: Group#23 3
+    2300138: Group#23 4
+    2300140: Group#23 5
+    2300142: Group#23 6
+    2300144: Group#23 7
+    2300146: HB
+    2300148: Image 5
+    2300150: Modern Office (coming soon)
+    2300152: Modern Office 2
+    2300154: Obj_000001
+    2300156: Obj_000001 1
+    2300158: Obj_000001 2
+    2300160: Obj_000002
+    2300162: Obj_000002 1
+    2300164: Obj_000002 2
+    2300166: Obj_000004
+    2300168: Obj_000004 1
+    2300170: Obj_000004 2
+    2300172: Obj_000005
+    2300174: Obj_000005 1
+    2300176: Obj_000005 2
+    2300178: Obj_000006
+    2300180: Obj_000006 1
+    2300182: Obj_000006 2
+    2300184: Obj_000008
+    2300186: Obj_000008 1
+    2300188: Obj_000008 2
+    2300190: Obj_000009
+    2300192: Obj_000009 1
+    2300194: Obj_000009 2
+    2300196: Obj_000010
+    2300198: Obj_000010 1
+    2300200: Obj_000010 2
+    2300202: Obj_000013
+    2300204: Obj_000013 1
+    2300206: Obj_000013 2
+    2300208: Obj_000014
+    2300210: Obj_000014 1
+    2300212: Obj_000014 2
+    2300214: Obj_000015
+    2300216: Obj_000015 1
+    2300218: Obj_000015 2
+    2300220: Obj_000016
+    2300222: Obj_000016 1
+    2300224: Obj_000016 2
+    2300226: Obj_000017
+    2300228: Obj_000017 1
+    2300230: Obj_000017 2
+    2300232: Obj_000018
+    2300234: Obj_000018 1
+    2300236: Obj_000018 2
+    2300238: Obj_000019
+    2300240: Obj_000019 1
+    2300242: Obj_000019 2
+    2300244: Obj_000020
+    2300246: Obj_000020 1
+    2300248: Obj_000020 2
+    2300250: Obj_000022
+    2300252: Obj_000022 1
+    2300254: Obj_000022 2
+    2300256: Obj_000023
+    2300258: Obj_000023 1
+    2300260: Obj_000023 2
+    2300262: Obj_000024
+    2300264: Obj_000024 1
+    2300266: Obj_000024 2
+    2300268: Obj_000025
+    2300270: Obj_000025 1
+    2300272: Obj_000025 2
+    2300274: Obj_000026
+    2300276: Obj_000026 1
+    2300278: Obj_000026 2
+    2300280: Obj_000028
+    2300282: Obj_000028 1
+    2300284: Obj_000028 2
+    2300286: Obj_000029
+    2300288: Obj_000029 1
+    2300290: Obj_000029 2
+    2300292: Obj_000030
+    2300294: Obj_000030 1
+    2300296: Obj_000030 2
+    2300298: Obj_000031
+    2300300: Obj_000031 1
+    2300302: Obj_000031 2
+    2300304: Obj_000032
+    2300306: Obj_000032 1
+    2300308: Obj_000032 2
+    2300310: Obj_000033
+    2300312: Obj_000033 1
+    2300314: Obj_000033 2
+    2300316: Obj_000035
+    2300318: Obj_000035 1
+    2300320: Obj_000035 2
+    2300322: Obj_000036
+    2300324: Obj_000036 1
+    2300326: Obj_000036 2
+    2300328: Pencil#2
+    3300000: '*'
+    3300002: 2#1
+    3300004: Binder 3 inches
+    3300006: Binder 3 inches 1
+    3300008: Binder 3 inches 2
+    3300010: Binder 3 inches 3
+    3300012: Binder 3 inches 4
+    3300014: Binder 3 inches 5
+    3300016: Binder 3 inches 6
+    3300018: Binder 3 inches 7
+    3300020: Binder 3 inches 8
+    3300022: Binder3in_Ring
+    3300024: Binder3in_Ring 1
+    3300026: Binder3in_Ring 10
+    3300028: Binder3in_Ring 11
+    3300030: Binder3in_Ring 12
+    3300032: Binder3in_Ring 13
+    3300034: Binder3in_Ring 14
+    3300036: Binder3in_Ring 15
+    3300038: Binder3in_Ring 16
+    3300040: Binder3in_Ring 17
+    3300042: Binder3in_Ring 18
+    3300044: Binder3in_Ring 19
+    3300046: Binder3in_Ring 2
+    3300048: Binder3in_Ring 20
+    3300050: Binder3in_Ring 21
+    3300052: Binder3in_Ring 22
+    3300054: Binder3in_Ring 23
+    3300056: Binder3in_Ring 24
+    3300058: Binder3in_Ring 25
+    3300060: Binder3in_Ring 26
+    3300062: Binder3in_Ring 3
+    3300064: Binder3in_Ring 4
+    3300066: Binder3in_Ring 5
+    3300068: Binder3in_Ring 6
+    3300070: Binder3in_Ring 7
+    3300072: Binder3in_Ring 8
+    3300074: Binder3in_Ring 9
+    3300076: CLASSIC
+    3300078: Composant#1
+    3300080: Composant#1 1
+    3300082: ENTER PASSCODE#1
+    3300084: ENTER PASSCODE#1 1
+    3300086: Enter text Enter
+    3300088: 'Enter textEnter '
+    3300090: Enter textEnter  1
+    3300092: 'Enter textEnter #1'
+    3300094: 'Enter textEnter #1 1'
+    3300096: Group 10
+    3300098: Group 12
+    3300100: Group 16
+    3300102: Group 18
+    3300104: Group 20
+    3300106: Group 22
+    3300108: Group 25
+    3300110: Group 27
+    3300112: Group 3
+    3300114: Group 31
+    3300116: Group 33
+    3300118: Group 35
+    3300120: Group 37
+    3300122: Group 47
+    3300124: Group 54
+    3300126: Group 61
+    3300128: Group 68
+    3300130: Group#23
+    3300132: Group#23 1
+    3300134: Group#23 2
+    3300136: Group#23 3
+    3300138: Group#23 4
+    3300140: Group#23 5
+    3300142: Group#23 6
+    3300144: Group#23 7
+    3300146: HB
+    3300148: Image 5
+    3300150: Modern Office (coming soon)
+    3300152: Modern Office 2
+    3300154: Obj_000001
+    3300156: Obj_000001 1
+    3300158: Obj_000001 2
+    3300160: Obj_000002
+    3300162: Obj_000002 1
+    3300164: Obj_000002 2
+    3300166: Obj_000004
+    3300168: Obj_000004 1
+    3300170: Obj_000004 2
+    3300172: Obj_000005
+    3300174: Obj_000005 1
+    3300176: Obj_000005 2
+    3300178: Obj_000006
+    3300180: Obj_000006 1
+    3300182: Obj_000006 2
+    3300184: Obj_000008
+    3300186: Obj_000008 1
+    3300188: Obj_000008 2
+    3300190: Obj_000009
+    3300192: Obj_000009 1
+    3300194: Obj_000009 2
+    3300196: Obj_000010
+    3300198: Obj_000010 1
+    3300200: Obj_000010 2
+    3300202: Obj_000013
+    3300204: Obj_000013 1
+    3300206: Obj_000013 2
+    3300208: Obj_000014
+    3300210: Obj_000014 1
+    3300212: Obj_000014 2
+    3300214: Obj_000015
+    3300216: Obj_000015 1
+    3300218: Obj_000015 2
+    3300220: Obj_000016
+    3300222: Obj_000016 1
+    3300224: Obj_000016 2
+    3300226: Obj_000017
+    3300228: Obj_000017 1
+    3300230: Obj_000017 2
+    3300232: Obj_000018
+    3300234: Obj_000018 1
+    3300236: Obj_000018 2
+    3300238: Obj_000019
+    3300240: Obj_000019 1
+    3300242: Obj_000019 2
+    3300244: Obj_000020
+    3300246: Obj_000020 1
+    3300248: Obj_000020 2
+    3300250: Obj_000022
+    3300252: Obj_000022 1
+    3300254: Obj_000022 2
+    3300256: Obj_000023
+    3300258: Obj_000023 1
+    3300260: Obj_000023 2
+    3300262: Obj_000024
+    3300264: Obj_000024 1
+    3300266: Obj_000024 2
+    3300268: Obj_000025
+    3300270: Obj_000025 1
+    3300272: Obj_000025 2
+    3300274: Obj_000026
+    3300276: Obj_000026 1
+    3300278: Obj_000026 2
+    3300280: Obj_000028
+    3300282: Obj_000028 1
+    3300284: Obj_000028 2
+    3300286: Obj_000029
+    3300288: Obj_000029 1
+    3300290: Obj_000029 2
+    3300292: Obj_000030
+    3300294: Obj_000030 1
+    3300296: Obj_000030 2
+    3300298: Obj_000031
+    3300300: Obj_000031 1
+    3300302: Obj_000031 2
+    3300304: Obj_000032
+    3300306: Obj_000032 1
+    3300308: Obj_000032 2
+    3300310: Obj_000033
+    3300312: Obj_000033 1
+    3300314: Obj_000033 2
+    3300316: Obj_000035
+    3300318: Obj_000035 1
+    3300320: Obj_000035 2
+    3300322: Obj_000036
+    3300324: Obj_000036 1
+    3300326: Obj_000036 2
+    3300328: Pencil#2
+    4300000: Mesh Group 3
+    4300002: Mesh Group 3
+    4300004: Mesh Modern Office 2
+    4300006: Mesh Group 10
+    4300008: Mesh Group 12
+    4300010: Mesh Group 16
+    4300012: Mesh Group 18
+    4300014: Mesh Group 20
+    4300016: Mesh Group 22
+    4300018: Mesh Composant#1
+    4300020: Mesh Modern Office (coming soon)
+    4300022: Mesh Group 47
+    4300024: Mesh Group#23
+    4300026: Mesh Pencil#2
+    4300028: Mesh HB
+    4300030: Mesh 2#1
+    4300032: Mesh CLASSIC
+    4300034: 'Mesh Enter textEnter '
+    4300036: Mesh Enter text Enter
+    4300038: 'Mesh Enter textEnter #1'
+    4300040: Mesh *
+    4300042: Mesh ENTER PASSCODE#1
+    4300044: Mesh Binder 3 inches
+    4300046: Mesh Binder3in_Ring
+    4300048: Mesh Obj_000001
+    4300050: Mesh Obj_000002
+    4300052: Mesh Obj_000004
+    4300054: Mesh Obj_000005
+    4300056: Mesh Obj_000006
+    4300058: Mesh Obj_000009
+    4300060: Mesh Obj_000010
+    4300062: Mesh Obj_000013
+    4300064: Mesh Obj_000014
+    4300066: Mesh Obj_000015
+    4300068: Mesh Obj_000016
+    4300070: Mesh Obj_000017
+    4300072: Mesh Obj_000018
+    4300074: Mesh Obj_000020
+    4300076: Mesh Obj_000024
+    4300078: Mesh Obj_000025
+    4300080: Mesh Obj_000026
+    4300082: Mesh Obj_000028
+    4300084: Mesh Obj_000029
+    4300086: Mesh Obj_000030
+    4300088: Mesh Obj_000035
+    4300090: Mesh Obj_000036
+    4300092: Mesh Obj_000033
+    4300094: Mesh Obj_000023
+    4300096: Mesh Obj_000022
+    4300098: Mesh Obj_000031
+    4300100: Mesh Obj_000008
+    4300102: Mesh Obj_000019
+    4300104: Mesh Obj_000032
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 7
+    second: {fileID: 2100000, guid: 91206f8d4c8773146a981f6aeffe22a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_000]'
+    second: {fileID: 2100000, guid: 0ef65451d3ce2654b8650a1ce8bf8318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_001]'
+    second: {fileID: 2100000, guid: 22897d91d31a8f342a8d8a35a203cdf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_002]'
+    second: {fileID: 2100000, guid: db213125959640d4f9f15cf34487ef6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_002]1'
+    second: {fileID: 2100000, guid: c9e9be4b29c52c345a26d1454eb94dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_003]'
+    second: {fileID: 2100000, guid: 7f1be0934e362344cb0e65c43f749ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_004]'
+    second: {fileID: 2100000, guid: 47b105d1983496649b6a287705c8e86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_005]'
+    second: {fileID: 2100000, guid: a9e6b2d8f74a0e942a88abc1fd43d073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_006]'
+    second: {fileID: 2100000, guid: 71f514f48ed52b34488d8ec4e005cee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_007]'
+    second: {fileID: 2100000, guid: 209b66c903eaa854da55d53f910f6471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_007]1'
+    second: {fileID: 2100000, guid: 8140855306de2c542a4f2d349d46d452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_008]'
+    second: {fileID: 2100000, guid: 362f6105f462501438033bfbfd39ca21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_008]1'
+    second: {fileID: 2100000, guid: 7dda18261b267294fb92c1d66b44980b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A01]1'
+    second: {fileID: 2100000, guid: 9742d8d4b9dfaf143886ed79f5bd0b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A05]'
+    second: {fileID: 2100000, guid: 165bc3a1aa3f05440ad9ef54048f2c4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A11]'
+    second: {fileID: 2100000, guid: 82d3a08672911764691bc08c8d06d096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_B25]'
+    second: {fileID: 2100000, guid: e7fd01a3595059445aa7e1ce3e892916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_D01]'
+    second: {fileID: 2100000, guid: 425907740ad8e174aa2223c429237834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_G01]'
+    second: {fileID: 2100000, guid: b7fafd5dd209efd46a873e4f6edab32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal_Aluminum_Anodized]'
+    second: {fileID: 2100000, guid: ca3b5925040ec004e9555f7d7075a88e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal_Rough]'
+    second: {fileID: 2100000, guid: cff32e1ee71cd7449a31e391499e2273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Tile_Ceramic_Natural]1'
+    second: {fileID: 2100000, guid: 864ec9373f5f77c458d5731e2ef9de30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]'
+    second: {fileID: 2100000, guid: 2f8476a7ad87a6545844cca0c5589f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]1'
+    second: {fileID: 2100000, guid: 161c80a846529f44494b21bb3a74c014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]4'
+    second: {fileID: 2100000, guid: a80a46c16d396d54591f4ced26eeb990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]5'
+    second: {fileID: 2100000, guid: 5e5ef1eb16a816b4cb3173dcf0d48ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[_0137_Black_]'
+    second: {fileID: 2100000, guid: a3ed24996274c994ba4d4f7c4464d0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _10
+    second: {fileID: 2100000, guid: 3c1567d1c6d63f24d9af72522090c810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _11
+    second: {fileID: 2100000, guid: 91cea338bba0302469330fc0ab13dd5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _12
+    second: {fileID: 2100000, guid: 7f2bd9703faa79d4dbf62f308b150bbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _13
+    second: {fileID: 2100000, guid: c87c6f3be4be2ec4587646439e171ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _16
+    second: {fileID: 2100000, guid: 1c570bda2f2819840841e0b1b929f6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _18
+    second: {fileID: 2100000, guid: 3c39d10f502ec074ea55d285eff963c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _19
+    second: {fileID: 2100000, guid: 16ec04da65c05a24f96c230230788de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: bc9905bdba4697640b4edc0e7df55753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: 441c0077a9cd7d84fb103e0e8541de08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _7
+    second: {fileID: 2100000, guid: 43ba9b65135411246852fb571989d340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8
+    second: {fileID: 2100000, guid: 3e4654e14cf73234281dbadeb16c8d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _9
+    second: {fileID: 2100000, guid: cc0f6c04fccac754cbf5924f2860e826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _DarkGray_
+    second: {fileID: 2100000, guid: e7941b5606a94e14b9eef337b61c5c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _LightGray_
+    second: {fileID: 2100000, guid: 710450b8fea4c114f9643ceb1d4a955f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _White_
+    second: {fileID: 2100000, guid: 4013b3c5a572eba478fb703d59597c36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 118eed00dba5d6e4a879ad191300ebe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat17
+    second: {fileID: 2100000, guid: 0ec9512ac956f744e83fe11e75e851a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat2
+    second: {fileID: 2100000, guid: df811c75b5c55d94a81c7aeac793e754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: on
+    second: {fileID: 2100000, guid: 61655fbb5c8c092488bff9c16700aa06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ps desktop
+    second: {fileID: 2100000, guid: 774c93ec9ccb98548bbba6c03e6f2650, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Anodized
+    second: {fileID: 2800000, guid: ed1ae046a1e00a84c939381de2fee6b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Rough
+    second: {fileID: 2800000, guid: f397d35ea0d9c1342b5bd4ee25336651, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tile_Ceramic_Natural_tint0xFEFEFEFF
+    second: {fileID: 2800000, guid: 3ab1f97527eaf6442b555bca67fdeaa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Plastic_Recycled_tint0xC5B576FF
+    second: {fileID: 2800000, guid: 2819b567a0a5a01459bfec39fc227645, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: on
+    second: {fileID: 2800000, guid: cee8abac4bbb88e459d89f4b21970c38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ps desktop
+    second: {fileID: 2800000, guid: b410b79d4b0bb6548a7546f62be0e768, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

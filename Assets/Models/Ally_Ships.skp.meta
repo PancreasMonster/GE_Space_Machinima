@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 98c12b15d382282428e7cc0e24abee31
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b435f7f21cc63b9f74a50a1a6e64407b
+  longitude: 139.75652724940292
+  latitude: 35.686066320916275
+  northCorrection: 359.27450251136327
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -29.200031, y: 18.050022, z: 98.601364}
+      lookAt: {x: 22.70564, y: 9.152547, z: 57.418034}
+      up: {x: 0.10425817, y: 0.9911042, z: -0.08272119}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: capsule
+    100002: capsule 1
+    100004: capsule 2
+    100006: capsule 3
+    100008: capsule 4
+    100010: capsule 5
+    100012: capsule 6
+    100014: capsule 7
+    100016: capsule 8
+    100018: capsule 9
+    100020: Group 1
+    100022: Group 100
+    100024: Group 102
+    100026: Group 104
+    100028: Group 106
+    100030: Group 108
+    100032: Group 109
+    100034: Group 11
+    100036: Group 110
+    100038: Group 112
+    100040: Group 113
+    100042: Group 121
+    100044: Group 122
+    100046: Group 124
+    100048: Group 126
+    100050: Group 128
+    100052: Group 13
+    100054: Group 130
+    100056: Group 132
+    100058: Group 134
+    100060: Group 136
+    100062: Group 138
+    100064: Group 141
+    100066: Group 143
+    100068: Group 145
+    100070: Group 15
+    100072: Group 153
+    100074: Group 155
+    100076: Group 157
+    100078: Group 167
+    100080: Group 168
+    100082: Group 170
+    100084: Group 172
+    100086: Group 174
+    100088: Group 176
+    100090: Group 177
+    100092: Group 180
+    100094: Group 183
+    100096: Group 185
+    100098: Group 187
+    100100: Group 189
+    100102: Group 19
+    100104: Group 191
+    100106: Group 193
+    100108: Group 195
+    100110: Group 197
+    100112: Group 199
+    100114: Group 201
+    100116: Group 203
+    100118: Group 205
+    100120: Group 207
+    100122: Group 209
+    100124: Group 21
+    100126: Group 211
+    100128: Group 213
+    100130: Group 215
+    100132: Group 217
+    100134: Group 219
+    100136: Group 221
+    100138: Group 223
+    100140: Group 224
+    100142: Group 225
+    100144: Group 227
+    100146: Group 228
+    100148: Group 23
+    100150: Group 236
+    100152: Group 237
+    100154: Group 239
+    100156: Group 241
+    100158: Group 243
+    100160: Group 245
+    100162: Group 247
+    100164: Group 249
+    100166: Group 251
+    100168: Group 253
+    100170: Group 26
+    100172: Group 28
+    100174: Group 3
+    100176: Group 30
+    100178: Group 38
+    100180: Group 40
+    100182: Group 42
+    100184: Group 5
+    100186: Group 52
+    100188: Group 53
+    100190: Group 55
+    100192: Group 57
+    100194: Group 59
+    100196: Group 61
+    100198: Group 62
+    100200: Group 65
+    100202: Group 68
+    100204: Group 7
+    100206: Group 70
+    100208: Group 72
+    100210: Group 74
+    100212: Group 76
+    100214: Group 78
+    100216: Group 80
+    100218: Group 82
+    100220: Group 84
+    100222: Group 86
+    100224: Group 88
+    100226: Group 90
+    100228: Group 92
+    100230: Group 94
+    100232: Group 96
+    100234: Group 98
+    100236: //RootNode
+    100238: "\u30B0\u30EB\u30FC\u30D7#33"
+    100240: "\u30B0\u30EB\u30FC\u30D7#33 1"
+    100242: "\u30B0\u30EB\u30FC\u30D7#33 2"
+    100244: "\u30B0\u30EB\u30FC\u30D7#33 3"
+    100246: "\u30B0\u30EB\u30FC\u30D7#46"
+    100248: "\u30B0\u30EB\u30FC\u30D7#46 1"
+    100250: "\u30B0\u30EB\u30FC\u30D7#46 2"
+    100252: "\u30B0\u30EB\u30FC\u30D7#46 3"
+    100254: "\u30B0\u30EB\u30FC\u30D7#46 4"
+    100256: "\u30B0\u30EB\u30FC\u30D7#46 5"
+    100258: "\u30B0\u30EB\u30FC\u30D7#51"
+    100260: "\u30B0\u30EB\u30FC\u30D7#51 1"
+    100262: "\u30B0\u30EB\u30FC\u30D7#51 2"
+    100264: "\u30B0\u30EB\u30FC\u30D7#51 3"
+    100266: "\u30B0\u30EB\u30FC\u30D7#55"
+    100268: "\u30B0\u30EB\u30FC\u30D7#55 1"
+    100270: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1"
+    100272: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 1"
+    100274: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 2"
+    100276: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 3"
+    100278: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 4"
+    100280: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 5"
+    100282: "\u5DE6\u8237#1"
+    100284: "\u5DE6\u8237#1 1"
+    400000: capsule
+    400002: capsule 1
+    400004: capsule 2
+    400006: capsule 3
+    400008: capsule 4
+    400010: capsule 5
+    400012: capsule 6
+    400014: capsule 7
+    400016: capsule 8
+    400018: capsule 9
+    400020: Group 1
+    400022: Group 100
+    400024: Group 102
+    400026: Group 104
+    400028: Group 106
+    400030: Group 108
+    400032: Group 109
+    400034: Group 11
+    400036: Group 110
+    400038: Group 112
+    400040: Group 113
+    400042: Group 121
+    400044: Group 122
+    400046: Group 124
+    400048: Group 126
+    400050: Group 128
+    400052: Group 13
+    400054: Group 130
+    400056: Group 132
+    400058: Group 134
+    400060: Group 136
+    400062: Group 138
+    400064: Group 141
+    400066: Group 143
+    400068: Group 145
+    400070: Group 15
+    400072: Group 153
+    400074: Group 155
+    400076: Group 157
+    400078: Group 167
+    400080: Group 168
+    400082: Group 170
+    400084: Group 172
+    400086: Group 174
+    400088: Group 176
+    400090: Group 177
+    400092: Group 180
+    400094: Group 183
+    400096: Group 185
+    400098: Group 187
+    400100: Group 189
+    400102: Group 19
+    400104: Group 191
+    400106: Group 193
+    400108: Group 195
+    400110: Group 197
+    400112: Group 199
+    400114: Group 201
+    400116: Group 203
+    400118: Group 205
+    400120: Group 207
+    400122: Group 209
+    400124: Group 21
+    400126: Group 211
+    400128: Group 213
+    400130: Group 215
+    400132: Group 217
+    400134: Group 219
+    400136: Group 221
+    400138: Group 223
+    400140: Group 224
+    400142: Group 225
+    400144: Group 227
+    400146: Group 228
+    400148: Group 23
+    400150: Group 236
+    400152: Group 237
+    400154: Group 239
+    400156: Group 241
+    400158: Group 243
+    400160: Group 245
+    400162: Group 247
+    400164: Group 249
+    400166: Group 251
+    400168: Group 253
+    400170: Group 26
+    400172: Group 28
+    400174: Group 3
+    400176: Group 30
+    400178: Group 38
+    400180: Group 40
+    400182: Group 42
+    400184: Group 5
+    400186: Group 52
+    400188: Group 53
+    400190: Group 55
+    400192: Group 57
+    400194: Group 59
+    400196: Group 61
+    400198: Group 62
+    400200: Group 65
+    400202: Group 68
+    400204: Group 7
+    400206: Group 70
+    400208: Group 72
+    400210: Group 74
+    400212: Group 76
+    400214: Group 78
+    400216: Group 80
+    400218: Group 82
+    400220: Group 84
+    400222: Group 86
+    400224: Group 88
+    400226: Group 90
+    400228: Group 92
+    400230: Group 94
+    400232: Group 96
+    400234: Group 98
+    400236: //RootNode
+    400238: "\u30B0\u30EB\u30FC\u30D7#33"
+    400240: "\u30B0\u30EB\u30FC\u30D7#33 1"
+    400242: "\u30B0\u30EB\u30FC\u30D7#33 2"
+    400244: "\u30B0\u30EB\u30FC\u30D7#33 3"
+    400246: "\u30B0\u30EB\u30FC\u30D7#46"
+    400248: "\u30B0\u30EB\u30FC\u30D7#46 1"
+    400250: "\u30B0\u30EB\u30FC\u30D7#46 2"
+    400252: "\u30B0\u30EB\u30FC\u30D7#46 3"
+    400254: "\u30B0\u30EB\u30FC\u30D7#46 4"
+    400256: "\u30B0\u30EB\u30FC\u30D7#46 5"
+    400258: "\u30B0\u30EB\u30FC\u30D7#51"
+    400260: "\u30B0\u30EB\u30FC\u30D7#51 1"
+    400262: "\u30B0\u30EB\u30FC\u30D7#51 2"
+    400264: "\u30B0\u30EB\u30FC\u30D7#51 3"
+    400266: "\u30B0\u30EB\u30FC\u30D7#55"
+    400268: "\u30B0\u30EB\u30FC\u30D7#55 1"
+    400270: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1"
+    400272: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 1"
+    400274: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 2"
+    400276: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 3"
+    400278: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 4"
+    400280: "\u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8#1 5"
+    400282: "\u5DE6\u8237#1"
+    400284: "\u5DE6\u8237#1 1"
+    2100000: Macxx
+    2100002: Mxx11
+    2100004: '[0129_WhiteSmoke]'
+    2100006: '[0136_Charcoal]'
+    2100008: '[0019_Crimson]'
+    2100010: '[0116_Lavender]'
+    2100012: '[0130_Gainsboro]'
+    2100014: '[0135_DarkGray]'
+    2100016: '[0069_LimeGreen]'
+    2100018: '[0131_Silver]'
+    2100020: '[0132_LightGray]'
+    2100022: '[0039_DarkOrange]'
+    2100024: 96,96,96
+    2100026: Materida
+    2100028: Materiasced
+    2100030: _1
+    2100032: Mateoj0
+    2100034: '[0134_DimGray]'
+    2100036: Matercz1
+    2100038: _9
+    2100040: Materix___
+    2100042: _6
+    2100044: _7
+    2100046: Materxx
+    2100048: _Charcoal_
+    2100050: '[0129_WhiteSmoke]1'
+    2100052: Matcxxc
+    2100054: Materiaxxxc
+    2100056: _8
+    2100058: '[Translucent_Glass_Gold]'
+    2100060: _2
+    2100062: _5
+    2100064: Maddd
+    2100066: Matexxxx
+    2100068: '[0099_LightSteelBlue]'
+    2300000: capsule
+    2300002: capsule 1
+    2300004: capsule 2
+    2300006: capsule 3
+    2300008: capsule 4
+    2300010: capsule 5
+    2300012: capsule 6
+    2300014: capsule 7
+    2300016: capsule 8
+    2300018: capsule 9
+    2300020: Group 1
+    2300022: Group 100
+    2300024: Group 102
+    2300026: Group 104
+    2300028: Group 106
+    2300030: Group 11
+    2300032: Group 110
+    2300034: Group 113
+    2300036: Group 122
+    2300038: Group 126
+    2300040: Group 128
+    2300042: Group 13
+    2300044: Group 130
+    2300046: Group 134
+    2300048: Group 136
+    2300050: Group 138
+    2300052: Group 141
+    2300054: Group 143
+    2300056: Group 145
+    2300058: Group 15
+    2300060: Group 153
+    2300062: Group 155
+    2300064: Group 157
+    2300066: Group 168
+    2300068: Group 170
+    2300070: Group 172
+    2300072: Group 174
+    2300074: Group 177
+    2300076: Group 180
+    2300078: Group 183
+    2300080: Group 185
+    2300082: Group 189
+    2300084: Group 19
+    2300086: Group 191
+    2300088: Group 193
+    2300090: Group 195
+    2300092: Group 197
+    2300094: Group 199
+    2300096: Group 201
+    2300098: Group 203
+    2300100: Group 205
+    2300102: Group 207
+    2300104: Group 209
+    2300106: Group 21
+    2300108: Group 211
+    2300110: Group 213
+    2300112: Group 215
+    2300114: Group 217
+    2300116: Group 219
+    2300118: Group 221
+    2300120: Group 225
+    2300122: Group 228
+    2300124: Group 23
+    2300126: Group 237
+    2300128: Group 241
+    2300130: Group 243
+    2300132: Group 245
+    2300134: Group 249
+    2300136: Group 251
+    2300138: Group 253
+    2300140: Group 26
+    2300142: Group 28
+    2300144: Group 3
+    2300146: Group 30
+    2300148: Group 38
+    2300150: Group 40
+    2300152: Group 42
+    2300154: Group 5
+    2300156: Group 53
+    2300158: Group 55
+    2300160: Group 57
+    2300162: Group 59
+    2300164: Group 62
+    2300166: Group 65
+    2300168: Group 68
+    2300170: Group 7
+    2300172: Group 70
+    2300174: Group 74
+    2300176: Group 76
+    2300178: Group 78
+    2300180: Group 80
+    2300182: Group 82
+    2300184: Group 84
+    2300186: Group 86
+    2300188: Group 88
+    2300190: Group 90
+    2300192: Group 92
+    2300194: Group 94
+    2300196: Group 96
+    2300198: Group 98
+    2300200: "\u30B0\u30EB\u30FC\u30D7#46"
+    2300202: "\u30B0\u30EB\u30FC\u30D7#46 1"
+    2300204: "\u30B0\u30EB\u30FC\u30D7#46 2"
+    2300206: "\u30B0\u30EB\u30FC\u30D7#46 3"
+    2300208: "\u30B0\u30EB\u30FC\u30D7#46 4"
+    2300210: "\u30B0\u30EB\u30FC\u30D7#46 5"
+    2300212: "\u30B0\u30EB\u30FC\u30D7#51"
+    2300214: "\u30B0\u30EB\u30FC\u30D7#51 1"
+    2300216: "\u30B0\u30EB\u30FC\u30D7#51 2"
+    2300218: "\u30B0\u30EB\u30FC\u30D7#51 3"
+    2300220: "\u30B0\u30EB\u30FC\u30D7#55"
+    2300222: "\u30B0\u30EB\u30FC\u30D7#55 1"
+    3300000: capsule
+    3300002: capsule 1
+    3300004: capsule 2
+    3300006: capsule 3
+    3300008: capsule 4
+    3300010: capsule 5
+    3300012: capsule 6
+    3300014: capsule 7
+    3300016: capsule 8
+    3300018: capsule 9
+    3300020: Group 1
+    3300022: Group 100
+    3300024: Group 102
+    3300026: Group 104
+    3300028: Group 106
+    3300030: Group 11
+    3300032: Group 110
+    3300034: Group 113
+    3300036: Group 122
+    3300038: Group 126
+    3300040: Group 128
+    3300042: Group 13
+    3300044: Group 130
+    3300046: Group 134
+    3300048: Group 136
+    3300050: Group 138
+    3300052: Group 141
+    3300054: Group 143
+    3300056: Group 145
+    3300058: Group 15
+    3300060: Group 153
+    3300062: Group 155
+    3300064: Group 157
+    3300066: Group 168
+    3300068: Group 170
+    3300070: Group 172
+    3300072: Group 174
+    3300074: Group 177
+    3300076: Group 180
+    3300078: Group 183
+    3300080: Group 185
+    3300082: Group 189
+    3300084: Group 19
+    3300086: Group 191
+    3300088: Group 193
+    3300090: Group 195
+    3300092: Group 197
+    3300094: Group 199
+    3300096: Group 201
+    3300098: Group 203
+    3300100: Group 205
+    3300102: Group 207
+    3300104: Group 209
+    3300106: Group 21
+    3300108: Group 211
+    3300110: Group 213
+    3300112: Group 215
+    3300114: Group 217
+    3300116: Group 219
+    3300118: Group 221
+    3300120: Group 225
+    3300122: Group 228
+    3300124: Group 23
+    3300126: Group 237
+    3300128: Group 241
+    3300130: Group 243
+    3300132: Group 245
+    3300134: Group 249
+    3300136: Group 251
+    3300138: Group 253
+    3300140: Group 26
+    3300142: Group 28
+    3300144: Group 3
+    3300146: Group 30
+    3300148: Group 38
+    3300150: Group 40
+    3300152: Group 42
+    3300154: Group 5
+    3300156: Group 53
+    3300158: Group 55
+    3300160: Group 57
+    3300162: Group 59
+    3300164: Group 62
+    3300166: Group 65
+    3300168: Group 68
+    3300170: Group 7
+    3300172: Group 70
+    3300174: Group 74
+    3300176: Group 76
+    3300178: Group 78
+    3300180: Group 80
+    3300182: Group 82
+    3300184: Group 84
+    3300186: Group 86
+    3300188: Group 88
+    3300190: Group 90
+    3300192: Group 92
+    3300194: Group 94
+    3300196: Group 96
+    3300198: Group 98
+    3300200: "\u30B0\u30EB\u30FC\u30D7#46"
+    3300202: "\u30B0\u30EB\u30FC\u30D7#46 1"
+    3300204: "\u30B0\u30EB\u30FC\u30D7#46 2"
+    3300206: "\u30B0\u30EB\u30FC\u30D7#46 3"
+    3300208: "\u30B0\u30EB\u30FC\u30D7#46 4"
+    3300210: "\u30B0\u30EB\u30FC\u30D7#46 5"
+    3300212: "\u30B0\u30EB\u30FC\u30D7#51"
+    3300214: "\u30B0\u30EB\u30FC\u30D7#51 1"
+    3300216: "\u30B0\u30EB\u30FC\u30D7#51 2"
+    3300218: "\u30B0\u30EB\u30FC\u30D7#51 3"
+    3300220: "\u30B0\u30EB\u30FC\u30D7#55"
+    3300222: "\u30B0\u30EB\u30FC\u30D7#55 1"
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: "Mesh \u30B0\u30EB\u30FC\u30D7#55"
+    4300010: Mesh Group 11
+    4300012: Mesh Group 13
+    4300014: Mesh Group 15
+    4300016: Mesh Group 26
+    4300018: Mesh Group 28
+    4300020: Mesh Group 30
+    4300022: "Mesh \u30B0\u30EB\u30FC\u30D7#51"
+    4300024: Mesh capsule
+    4300026: Mesh Group 38
+    4300028: Mesh Group 40
+    4300030: Mesh Group 42
+    4300032: Mesh capsule
+    4300034: Mesh capsule
+    4300036: Mesh capsule
+    4300038: Mesh capsule
+    4300040: Mesh Group 53
+    4300042: Mesh Group 55
+    4300044: Mesh Group 57
+    4300046: Mesh Group 59
+    4300048: Mesh Group 62
+    4300050: Mesh Group 65
+    4300052: Mesh Group 70
+    4300054: Mesh Group 74
+    4300056: Mesh Group 76
+    4300058: Mesh Group 78
+    4300060: Mesh Group 80
+    4300062: Mesh Group 82
+    4300064: Mesh Group 84
+    4300066: Mesh Group 86
+    4300068: Mesh Group 88
+    4300070: Mesh Group 90
+    4300072: Mesh Group 92
+    4300074: Mesh Group 94
+    4300076: Mesh Group 96
+    4300078: Mesh Group 98
+    4300080: Mesh Group 100
+    4300082: Mesh Group 102
+    4300084: Mesh Group 104
+    4300086: Mesh Group 106
+    4300088: Mesh Group 110
+    4300090: Mesh Group 113
+    4300092: "Mesh \u30B0\u30EB\u30FC\u30D7#46"
+    4300094: Mesh Group 122
+    4300096: Mesh Group 141
+    4300098: Mesh Group 143
+    4300100: Mesh Group 145
+    4300102: "Mesh \u30B0\u30EB\u30FC\u30D7#51"
+    4300104: Mesh capsule
+    4300106: Mesh Group 153
+    4300108: Mesh Group 155
+    4300110: Mesh Group 185
+    4300112: Mesh Group 189
+    4300114: Mesh Group 191
+    4300116: Mesh Group 193
+    4300118: Mesh Group 195
+    4300120: Mesh Group 197
+    4300122: Mesh Group 199
+    4300124: Mesh Group 201
+    4300126: Mesh Group 203
+    4300128: Mesh Group 205
+    4300130: Mesh Group 207
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mateacz
+    second: {fileID: 2800000, guid: 37456672781d4d24d904db92416fe997, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Matedcxh5
+    second: {fileID: 2800000, guid: 31bd9801cdaa7f04ea2ee3f0935cf9ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Matercz
+    second: {fileID: 2800000, guid: 7debeadddd363e14daab649477bd18cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materialoh
+    second: {fileID: 2800000, guid: 868e289f5a0a41446950d90f066f5ceb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mazcd_
+    second: {fileID: 2800000, guid: 5f808178ff8f00f4387b49ca175c88a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Gold_extractedTex58
+    second: {fileID: 2800000, guid: 86946fd237896ed45ac955ab1827c2ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WH40K_M04_B
+    second: {fileID: 2800000, guid: 1c9672da6b52a8640a87cb7a4d813e54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2800000, guid: 0acef5255dce7ca4aa5fddfcef8833b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _34
+    second: {fileID: 2800000, guid: aace21fba2d439b47b6e72d7a629332c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _9
+    second: {fileID: 2800000, guid: 26c7d06caaf2c2343aae5cc9078ee0ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _LightSlateGray_1
+    second: {fileID: 2800000, guid: d17bc1e8674cd604ab0dca2bd790a865, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bh
+    second: {fileID: 2800000, guid: 74ff832e0fc90ed428b1f96ebdb92a80, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1246 @@
+fileFormatVersion: 2
+guid: 127922be69d1c534eb8cf86fb36bb580
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000
+  assetHash:
+    serializedVersion: 2
+    Hash: a02ee1aa08cfd00b98a01eacf4b001db
+  longitude: -111.6285838214866
+  latitude: 33.223813891865476
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 6.705985, y: 32.27953, z: -100.56762}
+      lookAt: {x: 4.0417676, y: 27.38457, z: -85.11594}
+      up: {x: -0.050634857, y: 0.95456564, z: 0.29366747}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1 in Lg
+    100002: 1 in Lg 1
+    100004: 1 in Lg 2
+    100006: 1 in Lg 3
+    100008: 90 Elbow
+    100010: 90 Elbow 1
+    100012: 90 Elbow 2
+    100014: 90 Elbow#1
+    100016: 90 Elbow#1 1
+    100018: 90 Elbow#2
+    100020: Air Vent#1
+    100022: Air Vent#1 1
+    100024: Airlock Door (Basic)
+    100026: Antena OMNITIK
+    100028: antenna#1
+    100030: antenna#1 1
+    100032: astronat
+    100034: blade
+    100036: blade 1
+    100038: blade 2
+    100040: "By Ad\xE9l\u2019s DIGICR"
+    100042: Chris
+    100044: Component
+    100046: Component 1
+    100048: Component#23
+    100050: Control Panel
+    100052: Five branch flange connected Huber manifold
+    100054: garden bed#1
+    100056: garden bed#1 1
+    100058: garden bed#1 2
+    100060: garden bed#1 3
+    100062: Group 1
+    100064: Group 100
+    100066: Group 102
+    100068: Group 104
+    100070: Group 106
+    100072: Group 108
+    100074: Group 109
+    100076: Group 113
+    100078: Group 115
+    100080: Group 117
+    100082: Group 119
+    100084: Group 121
+    100086: Group 123
+    100088: Group 125
+    100090: Group 127
+    100092: Group 129
+    100094: Group 135
+    100096: Group 137
+    100098: Group 139
+    100100: Group 141
+    100102: Group 143
+    100104: Group 145
+    100106: Group 147
+    100108: Group 149
+    100110: Group 151
+    100112: Group 158
+    100114: Group 163
+    100116: Group 164
+    100118: Group 168
+    100120: Group 170
+    100122: Group 172
+    100124: Group 174
+    100126: Group 176
+    100128: Group 178
+    100130: Group 180
+    100132: Group 182
+    100134: Group 184
+    100136: Group 190
+    100138: Group 192
+    100140: Group 194
+    100142: Group 196
+    100144: Group 198
+    100146: Group 200
+    100148: Group 202
+    100150: Group 204
+    100152: Group 206
+    100154: Group 211
+    100156: Group 212
+    100158: Group 216
+    100160: Group 218
+    100162: Group 220
+    100164: Group 222
+    100166: Group 224
+    100168: Group 226
+    100170: Group 228
+    100172: Group 230
+    100174: Group 232
+    100176: Group 238
+    100178: Group 240
+    100180: Group 242
+    100182: Group 244
+    100184: Group 246
+    100186: Group 248
+    100188: Group 250
+    100190: Group 252
+    100192: Group 254
+    100194: Group 26
+    100196: Group 260
+    100198: Group 277
+    100200: Group 28
+    100202: Group 284
+    100204: Group 291
+    100206: Group 3
+    100208: Group 30
+    100210: Group 306
+    100212: Group 319
+    100214: Group 32
+    100216: Group 333
+    100218: Group 34
+    100220: Group 357
+    100222: Group 36
+    100224: Group 38
+    100226: Group 393
+    100228: Group 394
+    100230: Group 396
+    100232: Group 397
+    100234: Group 398
+    100236: Group 40
+    100238: Group 400
+    100240: Group 402
+    100242: Group 413
+    100244: Group 42
+    100246: Group 428
+    100248: Group 431
+    100250: Group 433
+    100252: Group 435
+    100254: Group 438
+    100256: Group 44
+    100258: Group 440
+    100260: Group 46
+    100262: Group 48
+    100264: Group 5
+    100266: Group 50
+    100268: Group 52
+    100270: Group 54
+    100272: Group 56
+    100274: Group 58
+    100276: Group 60
+    100278: Group 62
+    100280: Group 68
+    100282: Group 70
+    100284: Group 72
+    100286: Group 74
+    100288: Group 76
+    100290: Group 78
+    100292: Group 8
+    100294: Group 80
+    100296: Group 82
+    100298: Group 84
+    100300: Group 86
+    100302: Group 88
+    100304: Group 90
+    100306: Group 92
+    100308: Group 94
+    100310: Group 96
+    100312: Group 98
+    100314: Group#178
+    100316: Group#178 1
+    100318: Group#178 2
+    100320: Group#178 3
+    100322: Group#178 4
+    100324: Group#178 5
+    100326: Group#184
+    100328: Group#184 1
+    100330: Group#184 2
+    100332: Group#184 3
+    100334: Group#184 4
+    100336: Group#184 5
+    100338: Group#192
+    100340: hub
+    100342: Huber x Butt Weld
+    100344: Huber x Butt Weld 1
+    100346: Huber x Butt Weld 2
+    100348: Huber x Butt Weld 3
+    100350: Huber x Butt Weld 4
+    100352: Huber x Butt Weld 5
+    100354: Huber x Flange
+    100356: Huber x Flange 1
+    100358: Huber x Flange 2
+    100360: Huber x Flange 3
+    100362: Huber x Flange 4
+    100364: Huber x Flange 5
+    100366: Image 407
+    100368: Light#1
+    100370: Light#1 1
+    100372: motor
+    100374: motor18607
+    100376: Oil Tank
+    100378: Oil Tank#1
+    100380: parabola antenna
+    100382: Picture Frame with Painting
+    100384: RFWN
+    100386: RFWN 1
+    100388: RFWN 10
+    100390: RFWN 11
+    100392: RFWN 12
+    100394: RFWN 13
+    100396: RFWN 14
+    100398: RFWN 15
+    100400: RFWN 16
+    100402: RFWN 17
+    100404: RFWN 18
+    100406: RFWN 19
+    100408: RFWN 2
+    100410: RFWN 20
+    100412: RFWN 21
+    100414: RFWN 22
+    100416: RFWN 23
+    100418: RFWN 3
+    100420: RFWN 4
+    100422: RFWN 5
+    100424: RFWN 6
+    100426: RFWN 7
+    100428: RFWN 8
+    100430: RFWN 9
+    100432: servo
+    100434: servo20678
+    100436: socket
+    100438: socket 1
+    100440: socket 2
+    100442: step
+    100444: Tee#1
+    100446: Titan Base#1
+    100448: //RootNode
+    100450: tube
+    100452: tube 1
+    100454: tube 2
+    100456: tube 3
+    100458: tube 4
+    100460: tube 5
+    100462: tube 6
+    100464: tube 7
+    100466: Untitled
+    100468: Vacuumarator JETS 65MBA
+    100470: Vacuumarator JETS 65MBA 1
+    100472: Vacuumarator JETS 65MBA 2
+    100474: Wind Power Generator
+    400000: 1 in Lg
+    400002: 1 in Lg 1
+    400004: 1 in Lg 2
+    400006: 1 in Lg 3
+    400008: 90 Elbow
+    400010: 90 Elbow 1
+    400012: 90 Elbow 2
+    400014: 90 Elbow#1
+    400016: 90 Elbow#1 1
+    400018: 90 Elbow#2
+    400020: Air Vent#1
+    400022: Air Vent#1 1
+    400024: Airlock Door (Basic)
+    400026: Antena OMNITIK
+    400028: antenna#1
+    400030: antenna#1 1
+    400032: astronat
+    400034: blade
+    400036: blade 1
+    400038: blade 2
+    400040: "By Ad\xE9l\u2019s DIGICR"
+    400042: Chris
+    400044: Component
+    400046: Component 1
+    400048: Component#23
+    400050: Control Panel
+    400052: Five branch flange connected Huber manifold
+    400054: garden bed#1
+    400056: garden bed#1 1
+    400058: garden bed#1 2
+    400060: garden bed#1 3
+    400062: Group 1
+    400064: Group 100
+    400066: Group 102
+    400068: Group 104
+    400070: Group 106
+    400072: Group 108
+    400074: Group 109
+    400076: Group 113
+    400078: Group 115
+    400080: Group 117
+    400082: Group 119
+    400084: Group 121
+    400086: Group 123
+    400088: Group 125
+    400090: Group 127
+    400092: Group 129
+    400094: Group 135
+    400096: Group 137
+    400098: Group 139
+    400100: Group 141
+    400102: Group 143
+    400104: Group 145
+    400106: Group 147
+    400108: Group 149
+    400110: Group 151
+    400112: Group 158
+    400114: Group 163
+    400116: Group 164
+    400118: Group 168
+    400120: Group 170
+    400122: Group 172
+    400124: Group 174
+    400126: Group 176
+    400128: Group 178
+    400130: Group 180
+    400132: Group 182
+    400134: Group 184
+    400136: Group 190
+    400138: Group 192
+    400140: Group 194
+    400142: Group 196
+    400144: Group 198
+    400146: Group 200
+    400148: Group 202
+    400150: Group 204
+    400152: Group 206
+    400154: Group 211
+    400156: Group 212
+    400158: Group 216
+    400160: Group 218
+    400162: Group 220
+    400164: Group 222
+    400166: Group 224
+    400168: Group 226
+    400170: Group 228
+    400172: Group 230
+    400174: Group 232
+    400176: Group 238
+    400178: Group 240
+    400180: Group 242
+    400182: Group 244
+    400184: Group 246
+    400186: Group 248
+    400188: Group 250
+    400190: Group 252
+    400192: Group 254
+    400194: Group 26
+    400196: Group 260
+    400198: Group 277
+    400200: Group 28
+    400202: Group 284
+    400204: Group 291
+    400206: Group 3
+    400208: Group 30
+    400210: Group 306
+    400212: Group 319
+    400214: Group 32
+    400216: Group 333
+    400218: Group 34
+    400220: Group 357
+    400222: Group 36
+    400224: Group 38
+    400226: Group 393
+    400228: Group 394
+    400230: Group 396
+    400232: Group 397
+    400234: Group 398
+    400236: Group 40
+    400238: Group 400
+    400240: Group 402
+    400242: Group 413
+    400244: Group 42
+    400246: Group 428
+    400248: Group 431
+    400250: Group 433
+    400252: Group 435
+    400254: Group 438
+    400256: Group 44
+    400258: Group 440
+    400260: Group 46
+    400262: Group 48
+    400264: Group 5
+    400266: Group 50
+    400268: Group 52
+    400270: Group 54
+    400272: Group 56
+    400274: Group 58
+    400276: Group 60
+    400278: Group 62
+    400280: Group 68
+    400282: Group 70
+    400284: Group 72
+    400286: Group 74
+    400288: Group 76
+    400290: Group 78
+    400292: Group 8
+    400294: Group 80
+    400296: Group 82
+    400298: Group 84
+    400300: Group 86
+    400302: Group 88
+    400304: Group 90
+    400306: Group 92
+    400308: Group 94
+    400310: Group 96
+    400312: Group 98
+    400314: Group#178
+    400316: Group#178 1
+    400318: Group#178 2
+    400320: Group#178 3
+    400322: Group#178 4
+    400324: Group#178 5
+    400326: Group#184
+    400328: Group#184 1
+    400330: Group#184 2
+    400332: Group#184 3
+    400334: Group#184 4
+    400336: Group#184 5
+    400338: Group#192
+    400340: hub
+    400342: Huber x Butt Weld
+    400344: Huber x Butt Weld 1
+    400346: Huber x Butt Weld 2
+    400348: Huber x Butt Weld 3
+    400350: Huber x Butt Weld 4
+    400352: Huber x Butt Weld 5
+    400354: Huber x Flange
+    400356: Huber x Flange 1
+    400358: Huber x Flange 2
+    400360: Huber x Flange 3
+    400362: Huber x Flange 4
+    400364: Huber x Flange 5
+    400366: Image 407
+    400368: Light#1
+    400370: Light#1 1
+    400372: motor
+    400374: motor18607
+    400376: Oil Tank
+    400378: Oil Tank#1
+    400380: parabola antenna
+    400382: Picture Frame with Painting
+    400384: RFWN
+    400386: RFWN 1
+    400388: RFWN 10
+    400390: RFWN 11
+    400392: RFWN 12
+    400394: RFWN 13
+    400396: RFWN 14
+    400398: RFWN 15
+    400400: RFWN 16
+    400402: RFWN 17
+    400404: RFWN 18
+    400406: RFWN 19
+    400408: RFWN 2
+    400410: RFWN 20
+    400412: RFWN 21
+    400414: RFWN 22
+    400416: RFWN 23
+    400418: RFWN 3
+    400420: RFWN 4
+    400422: RFWN 5
+    400424: RFWN 6
+    400426: RFWN 7
+    400428: RFWN 8
+    400430: RFWN 9
+    400432: servo
+    400434: servo20678
+    400436: socket
+    400438: socket 1
+    400440: socket 2
+    400442: step
+    400444: Tee#1
+    400446: Titan Base#1
+    400448: //RootNode
+    400450: tube
+    400452: tube 1
+    400454: tube 2
+    400456: tube 3
+    400458: tube 4
+    400460: tube 5
+    400462: tube 6
+    400464: tube 7
+    400466: Untitled
+    400468: Vacuumarator JETS 65MBA
+    400470: Vacuumarator JETS 65MBA 1
+    400472: Vacuumarator JETS 65MBA 2
+    400474: Wind Power Generator
+    2100000: _defaultMat
+    2100002: '[Asphalt New]'
+    2100004: '[Granite Brown]'
+    2100006: '[Metal Embossed]'
+    2100008: '[Water Stream]'
+    2100010: '[Translucent Glass Gray]'
+    2100012: '[Mirror 02]'
+    2100014: '[Mirror 01]'
+    2100016: '[Formica Beige]'
+    2100018: Groundcover Rock Crushed 2 inch
+    2100020: steel
+    2100022: _Charcoal_1
+    2100024: _2
+    2100026: _26
+    2100028: '[Chris_Shirt]'
+    2100030: '[Chris_Shoe]'
+    2100032: '[Chris_Skin]'
+    2100034: '[Chris_Shoe_Sole]'
+    2100036: '[Chris_Hair]'
+    2100038: '[Chris_Pants]'
+    2100040: _10
+    2100042: '[Color_009]'
+    2100044: Metal Corrugated Shiny
+    2100046: '[Color_003]'
+    2100048: '[Fencing_Mesh_Blue]'
+    2100050: '[Blinds_Roman_Hobbled_Blue]1'
+    2100052: '[Metal_Corrogated_Shiny]4'
+    2100054: '[Translucent_Glass_Gray]1'
+    2100056: '[Metal_Corrogated_Shiny]'
+    2100058: '[Metal_Corrogated_Shiny]3'
+    2100060: '[Metal_Seamed]1'
+    2100062: '[Vegetation_Blur7]1'
+    2100064: '[Metal_Rough]1'
+    2100066: '[Aluminum]'
+    2100068: _LightGrey_
+    2100070: spacesuit
+    2100072: '[Groundcover_Wood_Mix]'
+    2100074: '[Color_000]1'
+    2100076: '[Color_007]'
+    2100078: 96,96,96
+    2100080: '[0135_DarkGray]'
+    2100082: _23
+    2100084: _24
+    2100086: '[Color M00]'
+    2100088: '[Translucent_Resin_Crush_Gray]'
+    2100090: Material 45
+    2100092: _8
+    2100094: '[Color_C02]'
+    2100096: '[Color_I03]'
+    2300000: 1 in Lg
+    2300002: 1 in Lg 1
+    2300004: 1 in Lg 2
+    2300006: 1 in Lg 3
+    2300008: 90 Elbow
+    2300010: 90 Elbow 1
+    2300012: 90 Elbow 2
+    2300014: Air Vent#1
+    2300016: Air Vent#1 1
+    2300018: antenna#1
+    2300020: antenna#1 1
+    2300022: astronat
+    2300024: blade
+    2300026: blade 1
+    2300028: blade 2
+    2300030: "By Ad\xE9l\u2019s DIGICR"
+    2300032: Chris
+    2300034: Component
+    2300036: Component 1
+    2300038: Component#23
+    2300040: Five branch flange connected Huber manifold
+    2300042: garden bed#1
+    2300044: garden bed#1 1
+    2300046: garden bed#1 2
+    2300048: garden bed#1 3
+    2300050: Group 1
+    2300052: Group 100
+    2300054: Group 102
+    2300056: Group 104
+    2300058: Group 109
+    2300060: Group 113
+    2300062: Group 115
+    2300064: Group 117
+    2300066: Group 119
+    2300068: Group 121
+    2300070: Group 123
+    2300072: Group 125
+    2300074: Group 127
+    2300076: Group 129
+    2300078: Group 135
+    2300080: Group 137
+    2300082: Group 139
+    2300084: Group 141
+    2300086: Group 143
+    2300088: Group 145
+    2300090: Group 147
+    2300092: Group 149
+    2300094: Group 151
+    2300096: Group 158
+    2300098: Group 164
+    2300100: Group 168
+    2300102: Group 170
+    2300104: Group 172
+    2300106: Group 174
+    2300108: Group 176
+    2300110: Group 178
+    2300112: Group 180
+    2300114: Group 182
+    2300116: Group 184
+    2300118: Group 190
+    2300120: Group 192
+    2300122: Group 194
+    2300124: Group 196
+    2300126: Group 198
+    2300128: Group 200
+    2300130: Group 202
+    2300132: Group 204
+    2300134: Group 206
+    2300136: Group 212
+    2300138: Group 216
+    2300140: Group 218
+    2300142: Group 220
+    2300144: Group 222
+    2300146: Group 224
+    2300148: Group 226
+    2300150: Group 228
+    2300152: Group 230
+    2300154: Group 232
+    2300156: Group 238
+    2300158: Group 240
+    2300160: Group 242
+    2300162: Group 244
+    2300164: Group 246
+    2300166: Group 248
+    2300168: Group 250
+    2300170: Group 252
+    2300172: Group 254
+    2300174: Group 26
+    2300176: Group 260
+    2300178: Group 277
+    2300180: Group 28
+    2300182: Group 284
+    2300184: Group 291
+    2300186: Group 3
+    2300188: Group 30
+    2300190: Group 306
+    2300192: Group 319
+    2300194: Group 32
+    2300196: Group 333
+    2300198: Group 34
+    2300200: Group 357
+    2300202: Group 36
+    2300204: Group 38
+    2300206: Group 394
+    2300208: Group 398
+    2300210: Group 40
+    2300212: Group 400
+    2300214: Group 402
+    2300216: Group 42
+    2300218: Group 431
+    2300220: Group 433
+    2300222: Group 438
+    2300224: Group 44
+    2300226: Group 440
+    2300228: Group 46
+    2300230: Group 48
+    2300232: Group 5
+    2300234: Group 50
+    2300236: Group 52
+    2300238: Group 54
+    2300240: Group 56
+    2300242: Group 58
+    2300244: Group 60
+    2300246: Group 62
+    2300248: Group 68
+    2300250: Group 70
+    2300252: Group 72
+    2300254: Group 74
+    2300256: Group 76
+    2300258: Group 78
+    2300260: Group 8
+    2300262: Group 80
+    2300264: Group 82
+    2300266: Group 84
+    2300268: Group 86
+    2300270: Group 88
+    2300272: Group 90
+    2300274: Group 92
+    2300276: Group 94
+    2300278: Group 96
+    2300280: Group 98
+    2300282: Group#178
+    2300284: Group#178 1
+    2300286: Group#178 2
+    2300288: Group#178 3
+    2300290: Group#178 4
+    2300292: Group#178 5
+    2300294: Group#184
+    2300296: Group#184 1
+    2300298: Group#184 2
+    2300300: Group#184 3
+    2300302: Group#184 4
+    2300304: Group#184 5
+    2300306: hub
+    2300308: Huber x Butt Weld
+    2300310: Huber x Butt Weld 1
+    2300312: Huber x Butt Weld 2
+    2300314: Huber x Butt Weld 3
+    2300316: Huber x Butt Weld 4
+    2300318: Huber x Butt Weld 5
+    2300320: Image 407
+    2300322: Light#1
+    2300324: Light#1 1
+    2300326: Oil Tank
+    2300328: parabola antenna
+    2300330: Picture Frame with Painting
+    2300332: RFWN
+    2300334: RFWN 1
+    2300336: RFWN 10
+    2300338: RFWN 11
+    2300340: RFWN 12
+    2300342: RFWN 13
+    2300344: RFWN 14
+    2300346: RFWN 15
+    2300348: RFWN 16
+    2300350: RFWN 17
+    2300352: RFWN 18
+    2300354: RFWN 19
+    2300356: RFWN 2
+    2300358: RFWN 20
+    2300360: RFWN 21
+    2300362: RFWN 22
+    2300364: RFWN 23
+    2300366: RFWN 3
+    2300368: RFWN 4
+    2300370: RFWN 5
+    2300372: RFWN 6
+    2300374: RFWN 7
+    2300376: RFWN 8
+    2300378: RFWN 9
+    2300380: socket
+    2300382: socket 1
+    2300384: socket 2
+    2300386: step
+    2300388: Tee#1
+    2300390: Titan Base#1
+    2300392: tube
+    2300394: tube 1
+    2300396: tube 2
+    2300398: tube 3
+    2300400: tube 4
+    2300402: tube 5
+    2300404: tube 6
+    2300406: tube 7
+    2300408: Untitled
+    3300000: 1 in Lg
+    3300002: 1 in Lg 1
+    3300004: 1 in Lg 2
+    3300006: 1 in Lg 3
+    3300008: 90 Elbow
+    3300010: 90 Elbow 1
+    3300012: 90 Elbow 2
+    3300014: Air Vent#1
+    3300016: Air Vent#1 1
+    3300018: antenna#1
+    3300020: antenna#1 1
+    3300022: astronat
+    3300024: blade
+    3300026: blade 1
+    3300028: blade 2
+    3300030: "By Ad\xE9l\u2019s DIGICR"
+    3300032: Chris
+    3300034: Component
+    3300036: Component 1
+    3300038: Component#23
+    3300040: Five branch flange connected Huber manifold
+    3300042: garden bed#1
+    3300044: garden bed#1 1
+    3300046: garden bed#1 2
+    3300048: garden bed#1 3
+    3300050: Group 1
+    3300052: Group 100
+    3300054: Group 102
+    3300056: Group 104
+    3300058: Group 109
+    3300060: Group 113
+    3300062: Group 115
+    3300064: Group 117
+    3300066: Group 119
+    3300068: Group 121
+    3300070: Group 123
+    3300072: Group 125
+    3300074: Group 127
+    3300076: Group 129
+    3300078: Group 135
+    3300080: Group 137
+    3300082: Group 139
+    3300084: Group 141
+    3300086: Group 143
+    3300088: Group 145
+    3300090: Group 147
+    3300092: Group 149
+    3300094: Group 151
+    3300096: Group 158
+    3300098: Group 164
+    3300100: Group 168
+    3300102: Group 170
+    3300104: Group 172
+    3300106: Group 174
+    3300108: Group 176
+    3300110: Group 178
+    3300112: Group 180
+    3300114: Group 182
+    3300116: Group 184
+    3300118: Group 190
+    3300120: Group 192
+    3300122: Group 194
+    3300124: Group 196
+    3300126: Group 198
+    3300128: Group 200
+    3300130: Group 202
+    3300132: Group 204
+    3300134: Group 206
+    3300136: Group 212
+    3300138: Group 216
+    3300140: Group 218
+    3300142: Group 220
+    3300144: Group 222
+    3300146: Group 224
+    3300148: Group 226
+    3300150: Group 228
+    3300152: Group 230
+    3300154: Group 232
+    3300156: Group 238
+    3300158: Group 240
+    3300160: Group 242
+    3300162: Group 244
+    3300164: Group 246
+    3300166: Group 248
+    3300168: Group 250
+    3300170: Group 252
+    3300172: Group 254
+    3300174: Group 26
+    3300176: Group 260
+    3300178: Group 277
+    3300180: Group 28
+    3300182: Group 284
+    3300184: Group 291
+    3300186: Group 3
+    3300188: Group 30
+    3300190: Group 306
+    3300192: Group 319
+    3300194: Group 32
+    3300196: Group 333
+    3300198: Group 34
+    3300200: Group 357
+    3300202: Group 36
+    3300204: Group 38
+    3300206: Group 394
+    3300208: Group 398
+    3300210: Group 40
+    3300212: Group 400
+    3300214: Group 402
+    3300216: Group 42
+    3300218: Group 431
+    3300220: Group 433
+    3300222: Group 438
+    3300224: Group 44
+    3300226: Group 440
+    3300228: Group 46
+    3300230: Group 48
+    3300232: Group 5
+    3300234: Group 50
+    3300236: Group 52
+    3300238: Group 54
+    3300240: Group 56
+    3300242: Group 58
+    3300244: Group 60
+    3300246: Group 62
+    3300248: Group 68
+    3300250: Group 70
+    3300252: Group 72
+    3300254: Group 74
+    3300256: Group 76
+    3300258: Group 78
+    3300260: Group 8
+    3300262: Group 80
+    3300264: Group 82
+    3300266: Group 84
+    3300268: Group 86
+    3300270: Group 88
+    3300272: Group 90
+    3300274: Group 92
+    3300276: Group 94
+    3300278: Group 96
+    3300280: Group 98
+    3300282: Group#178
+    3300284: Group#178 1
+    3300286: Group#178 2
+    3300288: Group#178 3
+    3300290: Group#178 4
+    3300292: Group#178 5
+    3300294: Group#184
+    3300296: Group#184 1
+    3300298: Group#184 2
+    3300300: Group#184 3
+    3300302: Group#184 4
+    3300304: Group#184 5
+    3300306: hub
+    3300308: Huber x Butt Weld
+    3300310: Huber x Butt Weld 1
+    3300312: Huber x Butt Weld 2
+    3300314: Huber x Butt Weld 3
+    3300316: Huber x Butt Weld 4
+    3300318: Huber x Butt Weld 5
+    3300320: Image 407
+    3300322: Light#1
+    3300324: Light#1 1
+    3300326: Oil Tank
+    3300328: parabola antenna
+    3300330: Picture Frame with Painting
+    3300332: RFWN
+    3300334: RFWN 1
+    3300336: RFWN 10
+    3300338: RFWN 11
+    3300340: RFWN 12
+    3300342: RFWN 13
+    3300344: RFWN 14
+    3300346: RFWN 15
+    3300348: RFWN 16
+    3300350: RFWN 17
+    3300352: RFWN 18
+    3300354: RFWN 19
+    3300356: RFWN 2
+    3300358: RFWN 20
+    3300360: RFWN 21
+    3300362: RFWN 22
+    3300364: RFWN 23
+    3300366: RFWN 3
+    3300368: RFWN 4
+    3300370: RFWN 5
+    3300372: RFWN 6
+    3300374: RFWN 7
+    3300376: RFWN 8
+    3300378: RFWN 9
+    3300380: socket
+    3300382: socket 1
+    3300384: socket 2
+    3300386: step
+    3300388: Tee#1
+    3300390: Titan Base#1
+    3300392: tube
+    3300394: tube 1
+    3300396: tube 2
+    3300398: tube 3
+    3300400: tube 4
+    3300402: tube 5
+    3300404: tube 6
+    3300406: tube 7
+    3300408: Untitled
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 8
+    4300008: Mesh Chris
+    4300010: Mesh Light#1
+    4300012: Mesh tube
+    4300014: Mesh antenna#1
+    4300016: Mesh Air Vent#1
+    4300018: Mesh Group 26
+    4300020: Mesh Group 28
+    4300022: Mesh Group 30
+    4300024: Mesh Group 32
+    4300026: Mesh Group 34
+    4300028: Mesh Group 36
+    4300030: Mesh Group 38
+    4300032: Mesh Group 40
+    4300034: Mesh Group 42
+    4300036: Mesh Group 44
+    4300038: Mesh Group 46
+    4300040: Mesh Group 48
+    4300042: Mesh Group 50
+    4300044: Mesh Group 52
+    4300046: Mesh Group 54
+    4300048: Mesh Group 56
+    4300050: Mesh Group 58
+    4300052: Mesh Group 60
+    4300054: Mesh Group 62
+    4300056: Mesh Group 109
+    4300058: Mesh Group#184
+    4300060: Mesh Group 113
+    4300062: Mesh Group 115
+    4300064: Mesh Group 117
+    4300066: Mesh Group 119
+    4300068: Mesh Group 121
+    4300070: Mesh Group 123
+    4300072: Mesh Group 125
+    4300074: Mesh Group 127
+    4300076: Mesh Group 129
+    4300078: Mesh Group#178
+    4300080: Mesh Oil Tank
+    4300082: Mesh Group 158
+    4300084: Mesh step
+    4300086: Mesh Five branch flange connected Huber manifold
+    4300088: Mesh Group 260
+    4300090: Mesh 1 in Lg
+    4300092: Mesh RFWN
+    4300094: Mesh Huber x Butt Weld
+    4300096: Mesh Group 277
+    4300098: Mesh 90 Elbow
+    4300100: Mesh RFWN
+    4300102: Mesh Group 306
+    4300104: Mesh Tee#1
+    4300106: Mesh astronat
+    4300108: Mesh garden bed#1
+    4300110: Mesh Component
+    4300112: Mesh Component
+    4300114: Mesh Untitled
+    4300116: Mesh parabola antenna
+    4300118: Mesh Component#23
+    4300120: Mesh Group 394
+    4300122: Mesh Group 398
+    4300124: Mesh Group 400
+    4300126: Mesh Group 402
+    4300128: Mesh Picture Frame with Painting
+    4300130: Mesh Picture Frame with Painting
+    4300132: "Mesh By Ad\xE9l\u2019s DIGICR"
+    4300134: Mesh Titan Base#1
+    4300136: Mesh hub
+    4300138: Mesh blade
+    4300140: Mesh socket
+    4300142: Mesh Group 431
+    4300144: Mesh Group 433
+    4300146: Mesh Group 438
+    4300148: Mesh Group 440
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Aluminum
+    second: {fileID: 2800000, guid: ef3e5b008cf64114a807ac99bda67c7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Asphalt_New
+    second: {fileID: 2800000, guid: 0438a3633bd7ac74faf32bc5b9d362df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blinds_Roman_Hobbled_Blue_tint0x7A7A7AFF
+    second: {fileID: 2800000, guid: f8cd5055b605e154f9351ca95362f299, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "D__\u25D9\u25D9\u25D9adeel_Kayla Singing_YURI2"
+    second: {fileID: 2800000, guid: 74f4d174496a3b14896e5ea282582eac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Earthy Granite
+    second: {fileID: 2800000, guid: 671d4ad8eba5f9546a4ab12f0399c6c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Mesh_Blue_tint0x000000FF
+    second: {fileID: 2800000, guid: 1aa3750b8574b0d4c9841d4b7ac2bf0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Formica Beige
+    second: {fileID: 2800000, guid: 841e83a9d89103c449feaf4d923a48d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Groundcover_Rock_Crushed_2inch
+    second: {fileID: 2800000, guid: 642150d361df35745ae77d55540e80ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Groundcover_Wood_Mix
+    second: {fileID: 2800000, guid: 47af6d6169612d44db700e262b242da6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Corrogated_Shiny
+    second: {fileID: 2800000, guid: e3ccb17abc5cb8949be4f3247ec13c69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Corrogated_Shiny_tint0xD8D8D8FF
+    second: {fileID: 2800000, guid: f9559ef108b32ee47963baa3f9eb67bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Embossed
+    second: {fileID: 2800000, guid: 0f21228f15187e145be99a819927476d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Rough
+    second: {fileID: 2800000, guid: e4443bbf1b9852e4f913fe17164bc957, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Seamed
+    second: {fileID: 2800000, guid: 11d8054ae15a83543a88216c03ccb294, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mirror_01
+    second: {fileID: 2800000, guid: 33d96e0812be5da4d9d4e9bb86b0644e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mirror_02
+    second: {fileID: 2800000, guid: de97d43e0b0475b46acf54fa3f8b2bbe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Quartz Light Grey
+    second: {fileID: 2800000, guid: d1e11b1797ba5a84198f0a247e251d61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RATTAN 01_tint0x999999FF
+    second: {fileID: 2800000, guid: ce8af93029a627241a10d39cdcb1436c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RATTAN 02
+    second: {fileID: 2800000, guid: 06104222c11e5af40a888b6e5c0b1b52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Resin_Crush_Gray
+    second: {fileID: 2800000, guid: d884524b753d1554c932e1c9211b1dac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vegetation_Blur7_tint0x7C9B3AFF
+    second: {fileID: 2800000, guid: f73affbc4a57cb3438048225cd84925e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water_Stream
+    second: {fileID: 2800000, guid: a9839a5a6b4971c4285cde6405f530bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: console03a
+    second: {fileID: 2800000, guid: 853027776454f2342b9aa87ff09fef0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monitor_texture.jpg9c68c41a-3e3c-4cec-a9ff-082058f29d26Large
+    second: {fileID: 2800000, guid: e8237bb58be217142a263e0c007b3226, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spacesuit
+    second: {fileID: 2800000, guid: fdc32c375b82eb14782e1a7290a62a60, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

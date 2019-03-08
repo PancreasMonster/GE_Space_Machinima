@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 1033c29ebfc8cc44ebd8bc59ed5436a0
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7b803d6722a63e3138f5c43b705517bb
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.14458361, y: 0.5193302, z: 0.7712578}
+      lookAt: {x: 0.28776786, y: 0.080418706, z: 0.2515967}
+      up: {x: 0.34828773, y: 0.8387203, z: -0.41862142}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Alein Bat
+    100002: Alein Bat 1
+    100004: Alein bat creature
+    100006: Alein bat creature 1
+    100008: 'JET ENGINE #1'
+    100010: 'Jet engine #4'
+    100012: //RootNode
+    100014: turbo fan blade
+    100016: turbo fan blade 1
+    100018: turbo fan blade 10
+    100020: turbo fan blade 11
+    100022: turbo fan blade 12
+    100024: turbo fan blade 13
+    100026: turbo fan blade 14
+    100028: turbo fan blade 15
+    100030: turbo fan blade 16
+    100032: turbo fan blade 17
+    100034: turbo fan blade 18
+    100036: turbo fan blade 19
+    100038: turbo fan blade 2
+    100040: turbo fan blade 20
+    100042: turbo fan blade 21
+    100044: turbo fan blade 22
+    100046: turbo fan blade 23
+    100048: turbo fan blade 3
+    100050: turbo fan blade 4
+    100052: turbo fan blade 5
+    100054: turbo fan blade 6
+    100056: turbo fan blade 7
+    100058: turbo fan blade 8
+    100060: turbo fan blade 9
+    400000: Alein Bat
+    400002: Alein Bat 1
+    400004: Alein bat creature
+    400006: Alein bat creature 1
+    400008: 'JET ENGINE #1'
+    400010: 'Jet engine #4'
+    400012: //RootNode
+    400014: turbo fan blade
+    400016: turbo fan blade 1
+    400018: turbo fan blade 10
+    400020: turbo fan blade 11
+    400022: turbo fan blade 12
+    400024: turbo fan blade 13
+    400026: turbo fan blade 14
+    400028: turbo fan blade 15
+    400030: turbo fan blade 16
+    400032: turbo fan blade 17
+    400034: turbo fan blade 18
+    400036: turbo fan blade 19
+    400038: turbo fan blade 2
+    400040: turbo fan blade 20
+    400042: turbo fan blade 21
+    400044: turbo fan blade 22
+    400046: turbo fan blade 23
+    400048: turbo fan blade 3
+    400050: turbo fan blade 4
+    400052: turbo fan blade 5
+    400054: turbo fan blade 6
+    400056: turbo fan blade 7
+    400058: turbo fan blade 8
+    400060: turbo fan blade 9
+    2100000: _defaultMat
+    2100002: '[0136_Charcoal]'
+    2100004: _2
+    2100006: '[Color_A06]'
+    2100008: _3
+    2100010: '[Translucent_Glass_Corrugated]'
+    2100012: '[Translucent_Glass_Green_Dark]'
+    2100014: _4
+    2100016: '[Metal_Corrogated_Shiny]'
+    2100018: '[Stone_Granite_Midnite]'
+    2100020: _6
+    2100022: '[Color_008]'
+    2100024: '[Color_005]'
+    2100026: '[Color_004]'
+    2100028: '[Metal_Seamed]'
+    2300000: Alein Bat
+    2300002: Alein Bat 1
+    2300004: Alein bat creature
+    2300006: Alein bat creature 1
+    2300008: 'Jet engine #4'
+    2300010: //RootNode
+    2300012: turbo fan blade
+    2300014: turbo fan blade 1
+    2300016: turbo fan blade 10
+    2300018: turbo fan blade 11
+    2300020: turbo fan blade 12
+    2300022: turbo fan blade 13
+    2300024: turbo fan blade 14
+    2300026: turbo fan blade 15
+    2300028: turbo fan blade 16
+    2300030: turbo fan blade 17
+    2300032: turbo fan blade 18
+    2300034: turbo fan blade 19
+    2300036: turbo fan blade 2
+    2300038: turbo fan blade 20
+    2300040: turbo fan blade 21
+    2300042: turbo fan blade 22
+    2300044: turbo fan blade 23
+    2300046: turbo fan blade 3
+    2300048: turbo fan blade 4
+    2300050: turbo fan blade 5
+    2300052: turbo fan blade 6
+    2300054: turbo fan blade 7
+    2300056: turbo fan blade 8
+    2300058: turbo fan blade 9
+    3300000: Alein Bat
+    3300002: Alein Bat 1
+    3300004: Alein bat creature
+    3300006: Alein bat creature 1
+    3300008: 'Jet engine #4'
+    3300010: //RootNode
+    3300012: turbo fan blade
+    3300014: turbo fan blade 1
+    3300016: turbo fan blade 10
+    3300018: turbo fan blade 11
+    3300020: turbo fan blade 12
+    3300022: turbo fan blade 13
+    3300024: turbo fan blade 14
+    3300026: turbo fan blade 15
+    3300028: turbo fan blade 16
+    3300030: turbo fan blade 17
+    3300032: turbo fan blade 18
+    3300034: turbo fan blade 19
+    3300036: turbo fan blade 2
+    3300038: turbo fan blade 20
+    3300040: turbo fan blade 21
+    3300042: turbo fan blade 22
+    3300044: turbo fan blade 23
+    3300046: turbo fan blade 3
+    3300048: turbo fan blade 4
+    3300050: turbo fan blade 5
+    3300052: turbo fan blade 6
+    3300054: turbo fan blade 7
+    3300056: turbo fan blade 8
+    3300058: turbo fan blade 9
+    4300000: Mesh ship
+    4300002: Mesh Alein bat creature
+    4300004: Mesh Alein Bat
+    4300006: 'Mesh Jet engine #4'
+    4300008: Mesh turbo fan blade
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
