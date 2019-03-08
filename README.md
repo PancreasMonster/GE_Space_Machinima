@@ -15,5 +15,5 @@ The main technical features will be present in the space battle. The 5 Squadra m
 <img src="Pictures/Storyboard.png">
 Video example of first storyboard slide:
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![](https://img.youtube.com/vi/RideatHlHaU/0.jpg)](https://www.youtube.com/watch?v=RideatHlHaU)
 
