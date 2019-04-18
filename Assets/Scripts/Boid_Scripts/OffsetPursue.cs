@@ -26,5 +26,11 @@ public class OffsetPursue : SteeringBehaviour
         targetPos = worldTarget + (leader.velocity * time);
         return boid.ArriveForce(targetPos);
     }
- 
+
+    public override System.Collections.IEnumerator StartMoving()
+    {
+        yield return null;
+        Debug.Log("gmm");
+    }
+
 }

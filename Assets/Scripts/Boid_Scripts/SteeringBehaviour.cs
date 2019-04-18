@@ -18,4 +18,5 @@ public abstract class SteeringBehaviour:MonoBehaviour
     }
 
     public abstract Vector3 Calculate();
+    public abstract System.Collections.IEnumerator StartMoving();
 }

@@ -34,4 +34,10 @@ public class Seek : SteeringBehaviour
             target = targetGameObject.transform.position;
         }
     }
+
+    public override System.Collections.IEnumerator StartMoving()
+    {
+        yield return null;
+        Debug.Log("gmm");
+    }
 }

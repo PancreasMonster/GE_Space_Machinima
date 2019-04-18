@@ -16,11 +16,18 @@ public class Arrive: SteeringBehaviour
         return boid.ArriveForce(targetPosition, slowingDistance);
     }
 
+
     public void Update()
     {
         if (targetGameObject != null)
         {
             targetPosition = targetGameObject.transform.position;
         }
+    }
+
+    public override System.Collections.IEnumerator StartMoving()
+    {
+        yield return null;
+        Debug.Log("gmm");
     }
 }

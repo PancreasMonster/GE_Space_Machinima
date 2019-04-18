@@ -26,4 +26,10 @@ public class Pursue : SteeringBehaviour
 
         return boid.SeekForce(targetPos);
     }
+
+    public override System.Collections.IEnumerator StartMoving()
+    {
+        yield return null;
+        Debug.Log("gmm");
+    }
 }

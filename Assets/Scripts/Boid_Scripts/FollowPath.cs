@@ -21,7 +21,7 @@ public class FollowPath : SteeringBehaviour {
 
     public void Start()
     {
-        
+        //StartCoroutine(StartMoving());
     }
 
     public override Vector3 Calculate()
@@ -41,4 +41,11 @@ public class FollowPath : SteeringBehaviour {
             return boid.SeekForce(nextWaypoint);
         }
     }
+
+   public override IEnumerator StartMoving()
+    {
+        yield return new WaitForSeconds(1);
+        Calculate();
+        Debug.Log("Yes");
+        }
 }
