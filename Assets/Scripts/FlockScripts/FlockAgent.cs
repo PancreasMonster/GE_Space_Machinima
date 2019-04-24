@@ -8,6 +8,7 @@ public class FlockAgent : MonoBehaviour
 
     Collider agentCol;
     public Collider AgentCol { get { return agentCol; } }
+    public int targetNum;
 
     // Start is called before the first frame update
     void Start()

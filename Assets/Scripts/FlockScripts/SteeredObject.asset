@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 818c1c5f84a2efa4e9560c4f9711e9fc, type: 3}
   m_Name: SteeredObject
   m_EditorClassIdentifier: 
-  agentSmoothTime: 0.75
+  agentSmoothTime: 40

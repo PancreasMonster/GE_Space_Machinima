@@ -7,18 +7,19 @@ public class Flock : MonoBehaviour
     public FlockAgent agentPrefab;
     List<FlockAgent> agents = new List<FlockAgent>();
     public FlockBehaviour behaviour;
+    public List<Transform> targets = new List<Transform>();
 
-    [Range(10, 500)]
+    [Range(1, 500)]
     public int startingSize = 100;
     public float AgentDensity = 0.58f;
 
-    [Range(1f, 100f)]
+    [Range(1f, 1000f)]
     public float driveFactor = 10f;
-    [Range(1f, 100f)]
+    [Range(1f, 1000f)]
     public float maxSpeed = 5f;
-    [Range(1f, 10f)]
+    [Range(1f, 1000f)]
     public float neighbourRadius = 1.5f;
-    [Range(0f, 10f)]
+    [Range(0f, 1000f)]
     public float avoidanceRadius = 0.5f;
 
     float squareMaxSpeed;
@@ -42,6 +43,7 @@ public class Flock : MonoBehaviour
                 );
             newAgent.name = "Agent " + i;
             agents.Add(newAgent);
+            newAgent.GetComponent<FlockAgent>().targetNum = Random.Range(0, 4);
         }
     }
 
