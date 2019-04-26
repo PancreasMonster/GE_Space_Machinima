@@ -43,6 +43,8 @@ public class Flock : MonoBehaviour
                 );
             newAgent.name = "Agent " + i;
             agents.Add(newAgent);
+            newAgent.GetComponent<FiringScript>().target = targets[0].gameObject;
+            newAgent.GetComponent<FiringScript>().force = 15000;
             newAgent.GetComponent<FlockAgent>().targetNum = Random.Range(0, 4);
         }
     }
