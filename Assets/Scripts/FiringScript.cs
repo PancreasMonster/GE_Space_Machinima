@@ -17,21 +17,15 @@ public class FiringScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!cooldown)
-        {
-            StartCoroutine(FireLaser());
-        }
+        
     }
 
-    IEnumerator FireLaser()
+    public void FireLaser()
     {
         cooldown = true;
         Vector3 dir = target.transform.position - transform.position;
         dir.Normalize();
         GameObject clone = Instantiate(laser, transform.position, Quaternion.LookRotation(dir));
-       // clone.GetComponent<Rigidbody>().AddForce(dir * force);
         Destroy(clone, 5);
-        yield return new WaitForSeconds(delay);
-        cooldown = false;
     }
 }

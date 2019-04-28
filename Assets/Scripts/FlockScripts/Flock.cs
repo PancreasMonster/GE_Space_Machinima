@@ -5,7 +5,7 @@ using UnityEngine;
 public class Flock : MonoBehaviour
 {
     public FlockAgent agentPrefab;
-    List<FlockAgent> agents = new List<FlockAgent>();
+    public List<FlockAgent> agents = new List<FlockAgent>();
     public FlockBehaviour behaviour;
     public List<Transform> targets = new List<Transform>();
 
@@ -30,6 +30,7 @@ public class Flock : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
         squareMaxSpeed = maxSpeed * maxSpeed;
         squareNeighbourRadius = neighbourRadius * neighbourRadius;
         squareAvoidanceRadius = squareNeighbourRadius * avoidanceRadius * avoidanceRadius;
@@ -47,6 +48,7 @@ public class Flock : MonoBehaviour
             newAgent.GetComponent<FiringScript>().force = 15000;
             newAgent.GetComponent<FlockAgent>().targetNum = Random.Range(0, 4);
         }
+        StartCoroutine("FireLaser");
     }
 
     // Update is called once per frame
@@ -81,5 +83,12 @@ public class Flock : MonoBehaviour
             }
         }
         return context;
+    }
+
+    IEnumerator FireLaser ()
+    {
+        agents[Random.Range(0, agents.Count - 1)].GetComponent<FiringScript>().FireLaser();
+        yield return new WaitForSeconds(Random.Range(2f,3f));
+        StartCoroutine("FireLaser");
     }
 }
