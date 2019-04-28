@@ -5,6 +5,8 @@ using UnityEngine;
 public class Laser : MonoBehaviour
 {
     public float speed;
+    public bool blue;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +21,7 @@ public class Laser : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.transform.tag == "AllyShip")
+        if (collision.transform.tag == "AllyShip" && !blue)
         {
             Destroy(this.gameObject);
         }
