@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using UnityEngine.Video;
 
 
 
@@ -10,11 +11,13 @@ public class PlanetSceneManager : MonoBehaviour
 {
     public Text text1, text2, text3;
     public CameraLookAt clt;
-    public Camera cam1, cam2;
-    public AudioSource aud;
+    public Camera cam1, cam2, cam3;
+    public VideoPlayer vp;
+    public AudioSource aud, aud2;
     public Animator anim, anim2;
     public GameObject camPos;
     public List<GameObject> eyes = new List<GameObject>();
+    bool fade;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +30,11 @@ public class PlanetSceneManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             SceneManager.LoadScene("BattleScene", LoadSceneMode.Single);
+        }
+
+        if(fade && vp.targetCameraAlpha > 0)
+        {
+       //     vp.targetCameraAlpha -= .1f * Time.deltaTime;
         }
     }
 
@@ -72,6 +80,17 @@ public class PlanetSceneManager : MonoBehaviour
         clt.enabled = true;
         text3.text = "Now prepare for briefing";
         anim2.SetBool("Speak", true);
+        aud.Play();
+        yield return new WaitForSeconds(2.5f);
+        text3.text = "";
+        vp.Play();
+        aud2.Play();
+        yield return new WaitForSeconds(.1f);
+        cam2.enabled = false;
+        cam3.enabled = true;
+        yield return new WaitForSeconds(3f);
+        vp.Stop();
+        text3.text = "This is the enemy's ultimate weapon.";
         aud.Play();
     }
 }
