@@ -11,13 +11,14 @@ public class PlanetSceneManager : MonoBehaviour
 {
     public Text text1, text2, text3;
     public CameraLookAt clt;
-    public Camera cam1, cam2, cam3;
+    public Camera cam1, cam2, cam3, cam4;
     public VideoPlayer vp;
     public AudioSource aud, aud2;
     public Animator anim, anim2;
-    public GameObject camPos, RawI;
+    public GameObject camPos, RawI, squad, planet;
     public List<GameObject> eyes = new List<GameObject>();
     public LaserManager lm;
+    public ParticleSystem ps;
     bool fade;
     // Start is called before the first frame update
     void Start()
@@ -103,5 +104,19 @@ public class PlanetSceneManager : MonoBehaviour
         RawI.SetActive(true);
         text3.text = "We need you out there now!";
         aud.Play();
+        yield return new WaitForSeconds(2.75f);
+        squad.SetActive(true);
+        yield return new WaitForSeconds(.25f);
+        RawI.SetActive(false);
+        cam3.enabled = false;
+        cam4.enabled = true;
+        text3.text = "";
+        aud2.Stop();
+        yield return new WaitForSeconds(9f);
+        lm.activate2();
+        yield return new WaitForSeconds(4.55f);
+        ps.Play();
+        yield return new WaitForSeconds(.5f);
+        planet.SetActive(false);
     }
 }

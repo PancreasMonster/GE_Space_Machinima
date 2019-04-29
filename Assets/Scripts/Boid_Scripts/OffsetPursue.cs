@@ -14,7 +14,7 @@ public class OffsetPursue : SteeringBehaviour
     void Start()
     {
         // There is a bug here!!
-        offset = transform.position - leader.transform.position;
+        offset =  new Vector3 (Mathf.Abs(transform.position.x - leader.transform.position.x), Mathf.Abs(transform.position.y - leader.transform.position.y), Mathf.Abs(transform.position.y - leader.transform.position.y));
     }
 
     public override Vector3 Calculate()
