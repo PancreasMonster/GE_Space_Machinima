@@ -15,8 +15,9 @@ public class PlanetSceneManager : MonoBehaviour
     public VideoPlayer vp;
     public AudioSource aud, aud2;
     public Animator anim, anim2;
-    public GameObject camPos;
+    public GameObject camPos, RawI;
     public List<GameObject> eyes = new List<GameObject>();
+    public LaserManager lm;
     bool fade;
     // Start is called before the first frame update
     void Start()
@@ -91,6 +92,16 @@ public class PlanetSceneManager : MonoBehaviour
         yield return new WaitForSeconds(3f);
         vp.Stop();
         text3.text = "This is the enemy's ultimate weapon.";
+        aud.Play();
+        yield return new WaitForSeconds(3f);
+        text3.text = "Capable of destroying whole planets!";
+        aud.Play();
+        yield return new WaitForSeconds(2.5f);
+        lm.activate();
+        text3.text = "";
+        yield return new WaitForSeconds(8f);
+        RawI.SetActive(true);
+        text3.text = "We need you out there now!";
         aud.Play();
     }
 }
