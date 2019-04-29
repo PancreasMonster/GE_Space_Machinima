@@ -13,13 +13,13 @@ public class PlanetSceneManager : MonoBehaviour
     public CameraLookAt clt;
     public Camera cam1, cam2, cam3, cam4;
     public VideoPlayer vp;
-    public AudioSource aud, aud2;
-    public Animator anim, anim2;
+    public AudioSource aud, aud2, aud3;
+    public Animator anim, anim2, anim3;
     public GameObject camPos, RawI, squad, planet;
     public List<GameObject> eyes = new List<GameObject>();
     public LaserManager lm;
     public ParticleSystem ps;
-    bool fade;
+    bool fade, start, stop;
     // Start is called before the first frame update
     void Start()
     {
@@ -34,7 +34,17 @@ public class PlanetSceneManager : MonoBehaviour
             SceneManager.LoadScene("BattleScene", LoadSceneMode.Single);
         }
 
-        if(fade && vp.targetCameraAlpha > 0)
+        if (start && aud3.volume < .7f && !stop)
+        {
+            aud3.volume += .3f * Time.deltaTime;
+        }
+
+        if (start && stop && aud3.volume > 0f)
+        {
+            aud3.volume -= .1f * Time.deltaTime;
+        }
+
+        if (fade && vp.targetCameraAlpha > 0)
         {
        //     vp.targetCameraAlpha -= .1f * Time.deltaTime;
         }
@@ -106,6 +116,7 @@ public class PlanetSceneManager : MonoBehaviour
         aud.Play();
         yield return new WaitForSeconds(2.75f);
         squad.SetActive(true);
+        start = true;
         yield return new WaitForSeconds(.25f);
         RawI.SetActive(false);
         cam3.enabled = false;
@@ -113,10 +124,17 @@ public class PlanetSceneManager : MonoBehaviour
         text3.text = "";
         aud2.Stop();
         yield return new WaitForSeconds(9f);
+        stop = true;
         lm.activate2();
         yield return new WaitForSeconds(4.55f);
         ps.Play();
         yield return new WaitForSeconds(.5f);
         planet.SetActive(false);
+        RawI.SetActive(true);
+        anim3.SetBool("Fade", true);
+        yield return new WaitForSeconds(1f);
+        ps.Stop();
+        yield return new WaitForSeconds(7f);
+        SceneManager.LoadScene("BattleScene", LoadSceneMode.Single);
     }
 }

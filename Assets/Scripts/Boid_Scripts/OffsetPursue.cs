@@ -9,12 +9,17 @@ public class OffsetPursue : SteeringBehaviour
     Vector3 targetPos;
     Vector3 worldTarget;
     Vector3 offset;
-
+    public bool abs;
     // Start is called before the first frame update
     void Start()
     {
         // There is a bug here!!
+        if(abs)
         offset =  new Vector3 (Mathf.Abs(transform.position.x - leader.transform.position.x), Mathf.Abs(transform.position.y - leader.transform.position.y), Mathf.Abs(transform.position.y - leader.transform.position.y));
+        else
+        {
+            offset = transform.position - leader.transform.position;
+        }
     }
 
     public override Vector3 Calculate()

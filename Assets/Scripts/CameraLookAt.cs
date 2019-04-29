@@ -5,6 +5,7 @@ using UnityEngine;
 public class CameraLookAt : MonoBehaviour
 {
     public Transform target;
+    public float speed = 2.5f;
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +18,6 @@ public class CameraLookAt : MonoBehaviour
     {
         Vector3 dir = target.position - transform.position;
         dir.Normalize();
-        transform.rotation = Quaternion.LookRotation(dir);
+        transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(dir), speed * Time.deltaTime);
     }
 }
