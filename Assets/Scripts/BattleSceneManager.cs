@@ -6,7 +6,7 @@ public class BattleSceneManager : MonoBehaviour
 {
     public CameraLookAt clt;
     public CameraLerp cl;
-    public Animator anim, anim2;
+    public Animator anim, anim2, anim3, anim4;
     public float timer;
     public LaserManager lm;
     public GameObject flagshipctarget, bomb, camS, leader, cube, cube2, camLTarget;
@@ -97,6 +97,12 @@ public class BattleSceneManager : MonoBehaviour
         clt.target = flagshipctarget.transform;
         cl.target = cl.origTarget;
         anim.SetBool("Fade", true);
+        yield return new WaitForSeconds(8f);
+        anim3.SetBool("Fade", true);
+        yield return new WaitForSeconds(1.5f);
+        anim4.SetBool("Fade", true);
+        yield return new WaitForSeconds(4f);
+        Application.Quit();
     }
 
     }

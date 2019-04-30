@@ -221,6 +221,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1 &33230263 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3104509881339669206, guid: faace68e0e77ce440a20030774501906,
@@ -241,6 +242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1 &109141341
 GameObject:
   m_ObjectHideFlags: 0
@@ -386,6 +388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1 &119402823
 GameObject:
   m_ObjectHideFlags: 0
@@ -1128,6 +1131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1001 &388118549
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2307,6 +2311,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1 &680014561 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3104509881339669206, guid: faace68e0e77ce440a20030774501906,
@@ -2327,6 +2332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!120 &696005161 stripped
 LineRenderer:
   m_CorrespondingSourceObject: {fileID: 213606013597509824, guid: fcc7eb084ed806e49bd78e26d7557721,
@@ -2430,6 +2436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 1880579148}
   speed: 2.5
+  locked: 1
 --- !u!1 &745961174
 GameObject:
   m_ObjectHideFlags: 0
@@ -3294,6 +3301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!4 &891550992 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8832378316598477435, guid: 680ba0ed639cdc74d8a8ef6489983425,
@@ -4155,6 +4163,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1 &1097644202
 GameObject:
   m_ObjectHideFlags: 0
@@ -5327,6 +5336,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1001 &1553586068
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5451,6 +5461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 732764216}
   speed: 2.5
+  locked: 1
 --- !u!1 &1570530667
 GameObject:
   m_ObjectHideFlags: 0
@@ -5903,7 +5914,7 @@ PrefabInstance:
     - target: {fileID: 6280145639850958594, guid: a5562c03dce19b243bbea41c77b1575c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -110.5
+      value: -367.4
       objectReference: {fileID: 0}
     - target: {fileID: 6280145639850958594, guid: a5562c03dce19b243bbea41c77b1575c,
         type: 3}
@@ -5913,7 +5924,7 @@ PrefabInstance:
     - target: {fileID: 6280145639850958594, guid: a5562c03dce19b243bbea41c77b1575c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 100.8
+      value: 283.7
       objectReference: {fileID: 0}
     - target: {fileID: 6280145639850958594, guid: a5562c03dce19b243bbea41c77b1575c,
         type: 3}
